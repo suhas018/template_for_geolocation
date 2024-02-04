@@ -1,0 +1,5762 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2024-02-04T15:07:28Z",
+    "timestamp_areas_base": "2024-02-04T13:40:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1474048610,
+      "lat": 17.7258341,
+      "lon": 83.3066214,
+      "tags": {
+        "addr:postcode": "530016",
+        "name": "Tanishq Jewellery",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474049538,
+      "lat": 17.7268023,
+      "lon": 83.3061144,
+      "tags": {
+        "name": "Men.Com",
+        "note": "Dwaraka Nagar, Visakhapatnam, Andhra Pradesh, India Ph: 0891 2539679",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474050180,
+      "lat": 17.7270706,
+      "lon": 83.3039874,
+      "tags": {
+        "name": "Toppers",
+        "note": "Sankara Matam Road, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh, India Ph: 0891 6630549",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474402826,
+      "lat": 17.7325845,
+      "lon": 83.317359,
+      "tags": {
+        "addr:street": "Resapuvanipalem, Visakhapatnam, Andhra Pradesh Ph: 0891 2598113",
+        "name": "Samsung Service Centre",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1815807448,
+      "lat": 17.7240255,
+      "lon": 83.3186235,
+      "tags": {
+        "addr:housename": "Dutt Island",
+        "addr:postcode": "530003",
+        "name": "More",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1815810168,
+      "lat": 17.7231446,
+      "lon": 83.3175773,
+      "tags": {
+        "addr:postcode": "530003",
+        "name": "Karachiwala Departmental stores",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824367423,
+      "lat": 17.7424304,
+      "lon": 83.3384145,
+      "tags": {
+        "name": "MVP Departmental Stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824367429,
+      "lat": 17.7425428,
+      "lon": 83.3385004,
+      "tags": {
+        "name": "divya bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824367457,
+      "lat": 17.7434599,
+      "lon": 83.3374862,
+      "tags": {
+        "addr:street": "MVP Main Rd, MVP ColonyVisakhapatnam(Vizag), Andhra Pradesh, India",
+        "name": "Reliance Fresh",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824367489,
+      "lat": 17.7434267,
+      "lon": 83.3376581,
+      "tags": {
+        "addr:street": "MVP Main Rd, MVP ColonyVisakhapatnam(Vizag), Andhra Pradesh, India",
+        "name": "Baker's Zone",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2332907252,
+      "lat": 17.7433179,
+      "lon": 83.3152552,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2332924898,
+      "lat": 17.7436406,
+      "lon": 83.3163851,
+      "tags": {
+        "name": "More",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2634970234,
+      "lat": 17.7142756,
+      "lon": 83.3221469,
+      "tags": {
+        "addr:city": "Visakhapatnam",
+        "addr:postcode": "530003",
+        "addr:street": "Pandurangaswamy Temple Road",
+        "name": "Spencer's Beach Road",
+        "organic": "yes",
+        "shop": "supermarket",
+        "website": "https://www.spencers.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684856605,
+      "lat": 17.6811846,
+      "lon": 83.1521416,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684859639,
+      "lat": 17.6812165,
+      "lon": 83.1522763,
+      "tags": {
+        "shop": "dairy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913956905,
+      "lat": 17.7312094,
+      "lon": 83.3381185,
+      "tags": {
+        "name": "Baba bazaar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3921514692,
+      "lat": 17.7249164,
+      "lon": 83.3063224,
+      "tags": {
+        "name": "Chandu Sweets",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3923033484,
+      "lat": 17.7313299,
+      "lon": 83.3353712,
+      "tags": {
+        "name": "Skml Kirana Shop",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3929864496,
+      "lat": 17.7198957,
+      "lon": 83.3066624,
+      "tags": {
+        "name": "Vodafone Store",
+        "operator": "Vodafone",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3969853903,
+      "lat": 17.7326983,
+      "lon": 83.3214283,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4026624173,
+      "lat": 17.7436,
+      "lon": 83.3369203,
+      "tags": {
+        "name": "Aparna electronics",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050143628,
+      "lat": 17.7227652,
+      "lon": 83.3310508,
+      "tags": {
+        "addr:street": "tamil street",
+        "name": "Jawed Habib",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050186958,
+      "lat": 17.7251968,
+      "lon": 83.3332576,
+      "tags": {
+        "name": "Bengaluru Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050188540,
+      "lat": 17.7253233,
+      "lon": 83.3333072,
+      "tags": {
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050189135,
+      "lat": 17.7254612,
+      "lon": 83.333326,
+      "tags": {
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050189898,
+      "lat": 17.7252402,
+      "lon": 83.3334212,
+      "tags": {
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050190089,
+      "lat": 17.7253105,
+      "lon": 83.3334386,
+      "tags": {
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052542462,
+      "lat": 17.7220171,
+      "lon": 83.318205,
+      "tags": {
+        "name": "Food-Ex",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061651226,
+      "lat": 17.722663,
+      "lon": 83.317006,
+      "tags": {
+        "name": "Varun bajaj",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061670865,
+      "lat": 17.7284391,
+      "lon": 83.3263694,
+      "tags": {
+        "name": "Raitu Bazaar",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109460431,
+      "lat": 17.726055,
+      "lon": 83.3064496,
+      "tags": {
+        "name": "Kalanikethan",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4148730059,
+      "lat": 17.8035909,
+      "lon": 83.3535582,
+      "tags": {
+        "name": "More",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4148730060,
+      "lat": 17.8039867,
+      "lon": 83.3498782,
+      "tags": {
+        "name": "Vijetha",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4201706994,
+      "lat": 17.7252223,
+      "lon": 83.3170968,
+      "tags": {
+        "addr:street": "Vip Road",
+        "name": "Elepe Patesserie, Cake Collection",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4267548790,
+      "lat": 17.7336673,
+      "lon": 83.2756377,
+      "tags": {
+        "addr:postcode": "530008",
+        "name": "Kancharpalem Raithu Bazaar",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4274862397,
+      "lat": 17.7253136,
+      "lon": 83.3039648,
+      "tags": {
+        "name": "khazana",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4299440818,
+      "lat": 17.7113369,
+      "lon": 83.2999901,
+      "tags": {
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4299599250,
+      "lat": 17.7117395,
+      "lon": 83.302719,
+      "tags": {
+        "name": "Fashion Life",
+        "name:te": "ఫ్యాషన్ లైఫ్",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4299599252,
+      "lat": 17.7155353,
+      "lon": 83.3018394,
+      "tags": {
+        "name": "Sharma Sports",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4299599253,
+      "lat": 17.7133192,
+      "lon": 83.3049965,
+      "tags": {
+        "name": "Sona Dona",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4299599254,
+      "lat": 17.7115453,
+      "lon": 83.3024481,
+      "tags": {
+        "name": "Kumars Shirts",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300022392,
+      "lat": 17.7309952,
+      "lon": 83.3354872,
+      "tags": {
+        "name": "NRK Wines",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300022855,
+      "lat": 17.7311463,
+      "lon": 83.3351853,
+      "tags": {
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300410230,
+      "lat": 17.7193236,
+      "lon": 83.3069768,
+      "tags": {
+        "name": "Fresh Choice",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300410231,
+      "lat": 17.7200876,
+      "lon": 83.306722,
+      "tags": {
+        "name": "M.F.khan",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300545252,
+      "lat": 17.7244271,
+      "lon": 83.3329772,
+      "tags": {
+        "name": "Apollo Medicals",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300545254,
+      "lat": 17.7247758,
+      "lon": 83.3338355,
+      "tags": {
+        "name": "Lakshmi Durga Medical Store",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300560614,
+      "lat": 17.7217039,
+      "lon": 83.3274767,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4304461790,
+      "lat": 17.719263,
+      "lon": 83.3116427,
+      "tags": {
+        "name": "Baker's Den",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4304461791,
+      "lat": 17.7193166,
+      "lon": 83.3117795,
+      "tags": {
+        "name": "Dunken's Castle",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305482750,
+      "lat": 17.7225505,
+      "lon": 83.3167438,
+      "tags": {
+        "name": "Fresh Choice",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305482751,
+      "lat": 17.7230231,
+      "lon": 83.3172991,
+      "tags": {
+        "name": "Gruhalakshmi Home Foods",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305482752,
+      "lat": 17.721121,
+      "lon": 83.3149105,
+      "tags": {
+        "name": "Lenovo Show Room",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305482753,
+      "lat": 17.7241844,
+      "lon": 83.3094388,
+      "tags": {
+        "name": "Sivarama Sweets",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4483401706,
+      "lat": 17.7340738,
+      "lon": 83.3322295,
+      "tags": {
+        "name": "Coffee day",
+        "shop": "coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4483401708,
+      "lat": 17.7329418,
+      "lon": 83.332702,
+      "tags": {
+        "name": "Relience Fresh",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4483401980,
+      "lat": 17.7337151,
+      "lon": 83.3322226,
+      "tags": {
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4483401983,
+      "lat": 17.7338684,
+      "lon": 83.3320857,
+      "tags": {
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4483401991,
+      "lat": 17.7341194,
+      "lon": 83.3322774,
+      "tags": {
+        "shop": "boutique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4541129024,
+      "lat": 17.7427596,
+      "lon": 83.328791,
+      "tags": {
+        "addr:city": "VISAKHAPATNAM",
+        "addr:postcode": "530017",
+        "addr:street": "Sector 1 MVP",
+        "name": "Hero MotoCorp",
+        "operator": "Shri Krishna Motors",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4799206495,
+      "lat": 17.7139613,
+      "lon": 83.3031788,
+      "tags": {
+        "description": "A Shop for women western and ethnic wear",
+        "name": "Dolls n Chic Shop",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4799206496,
+      "lat": 17.7141172,
+      "lon": 83.303321,
+      "tags": {
+        "description": "A shop for men and women foot wear",
+        "name": "Silverline shop",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4801326139,
+      "lat": 17.7152887,
+      "lon": 83.3081731,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "House no.#14-35-1",
+        "addr:postcode": "530002",
+        "addr:street": "NGO's home,maharanipeta",
+        "building:levels": "4",
+        "name": "Golden Crown Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4801326524,
+      "lat": 17.7152616,
+      "lon": 83.3090981,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:postcode": "530002",
+        "addr:street": "Nowroji Street",
+        "name": "More",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804602468,
+      "lat": 17.6852117,
+      "lon": 83.2414007,
+      "tags": {
+        "name": "utilities",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804602469,
+      "lat": 17.6852646,
+      "lon": 83.2413329,
+      "tags": {
+        "name": "stationary",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804602471,
+      "lat": 17.6844545,
+      "lon": 83.2415075,
+      "tags": {
+        "name": "milk",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804602474,
+      "lat": 17.6834873,
+      "lon": 83.2416454,
+      "tags": {
+        "name": "utilities",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804602475,
+      "lat": 17.6889323,
+      "lon": 83.2412926,
+      "tags": {
+        "name": "utilities",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4872134487,
+      "lat": 17.7193683,
+      "lon": 83.3070999,
+      "tags": {
+        "name": "Pooja collections",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4872134488,
+      "lat": 17.7198359,
+      "lon": 83.3069336,
+      "tags": {
+        "name": "Pages",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965290722,
+      "lat": 17.6890131,
+      "lon": 83.2418288,
+      "tags": {
+        "name": "DTDC Malkapuram",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965290723,
+      "lat": 17.6890022,
+      "lon": 83.2417925,
+      "tags": {
+        "name": "HP gas Agency",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965290724,
+      "lat": 17.688994,
+      "lon": 83.2412955,
+      "tags": {
+        "name": "Utilities",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965290725,
+      "lat": 17.688888,
+      "lon": 83.2412751,
+      "tags": {
+        "name": "Vegetables vendor",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965290726,
+      "lat": 17.6889269,
+      "lon": 83.2426662,
+      "tags": {
+        "name": "Battery shop",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5007138350,
+      "lat": 17.7428021,
+      "lon": 83.2360742,
+      "tags": {
+        "name": "hirawats",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5007138371,
+      "lat": 17.7503873,
+      "lon": 83.2491207,
+      "tags": {
+        "name": "VIJETHA",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039061647,
+      "lat": 17.7342627,
+      "lon": 83.2783044,
+      "tags": {
+        "name": "Bengaluru Iyangar Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5077100122,
+      "lat": 17.6875723,
+      "lon": 83.1434979,
+      "tags": {
+        "name": "Parveen Marbles",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788442,
+      "lat": 17.6892402,
+      "lon": 83.2364801,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788443,
+      "lat": 17.6889208,
+      "lon": 83.2364318,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788444,
+      "lat": 17.6888314,
+      "lon": 83.2363379,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788445,
+      "lat": 17.6893399,
+      "lon": 83.2363996,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788446,
+      "lat": 17.6894242,
+      "lon": 83.236413,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788447,
+      "lat": 17.6895264,
+      "lon": 83.2364184,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788448,
+      "lat": 17.6895852,
+      "lon": 83.2364345,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080788449,
+      "lat": 17.6896517,
+      "lon": 83.2365659,
+      "tags": {
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5267757603,
+      "lat": 17.6843281,
+      "lon": 83.2418847,
+      "tags": {
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5267757604,
+      "lat": 17.6844022,
+      "lon": 83.2418961,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5672699459,
+      "lat": 17.7674755,
+      "lon": 83.2222816,
+      "tags": {
+        "name": "Shri Shiridi Sai Temple",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5672777874,
+      "lat": 17.774466,
+      "lon": 83.2219837,
+      "tags": {
+        "name": "Sri Lakshmi Bar and Restaurant",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5984889996,
+      "lat": 17.7134663,
+      "lon": 83.3009443,
+      "tags": {
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6117715131,
+      "lat": 17.7635832,
+      "lon": 83.2240965,
+      "tags": {
+        "name": "Sivalayam",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6197788834,
+      "lat": 17.7441468,
+      "lon": 83.1825446,
+      "tags": {
+        "name": "Ramalayam, Narava",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6227145441,
+      "lat": 17.7096842,
+      "lon": 83.3009257,
+      "tags": {
+        "name": "Visakhapatnam Central",
+        "name:te": "విశాఖపట్నం సెంట్రల్",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6435540977,
+      "lat": 17.7356569,
+      "lon": 83.2671985,
+      "tags": {
+        "name": "Bombay sweets and Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6629471924,
+      "lat": 17.7080551,
+      "lon": 83.3091465,
+      "tags": {
+        "name": "Apna bazar",
+        "name:te": "అప్న బజార్",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6766440222,
+      "lat": 17.7280793,
+      "lon": 83.3055263,
+      "tags": {
+        "name": "Gruha Priya",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6766449876,
+      "lat": 17.7280292,
+      "lon": 83.3053642,
+      "tags": {
+        "name": "Pan",
+        "shop": "tea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6766617208,
+      "lat": 17.76525,
+      "lon": 83.2255835,
+      "tags": {
+        "name": "Bangalore Aiyyengar",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6829254649,
+      "lat": 17.7471565,
+      "lon": 83.2644823,
+      "tags": {
+        "name": "Btreats",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6833987771,
+      "lat": 17.7004375,
+      "lon": 83.3006897,
+      "tags": {
+        "name": "Brahmam Gari Gudi",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6834035273,
+      "lat": 17.699688,
+      "lon": 83.296936,
+      "tags": {
+        "name": "Sri Kanakamahalakshmi Ammavari Devasthanam",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6849353785,
+      "lat": 17.7361058,
+      "lon": 83.2999072,
+      "tags": {
+        "addr:postcode": "530016",
+        "name": "Bread World",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6849353985,
+      "lat": 17.7360024,
+      "lon": 83.299893,
+      "tags": {
+        "name": "Ravi Super Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868668696,
+      "lat": 17.770826,
+      "lon": 83.2344675,
+      "tags": {
+        "addr:city": "vizag",
+        "addr:postcode": "530029",
+        "addr:street": "Simhachalam Road",
+        "name": "SKML Retail Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868812733,
+      "lat": 17.8355265,
+      "lon": 83.2301093,
+      "tags": {
+        "shop": "houseware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6870411485,
+      "lat": 17.7362759,
+      "lon": 83.3002717,
+      "tags": {
+        "name": "Sai durga kirana store",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6979913885,
+      "lat": 17.9332151,
+      "lon": 83.4256226,
+      "tags": {
+        "name": "Manikanta sweets bakery",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7246507849,
+      "lat": 17.7239356,
+      "lon": 83.3180658,
+      "tags": {
+        "name": "cuts and curls",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7276606273,
+      "lat": 17.7394371,
+      "lon": 83.3121872,
+      "tags": {
+        "name": "Lalitha Kalyana Mandapam",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7347093872,
+      "lat": 17.725191,
+      "lon": 83.3335452,
+      "tags": {
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7347093873,
+      "lat": 17.7249981,
+      "lon": 83.3339864,
+      "tags": {
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8047551875,
+      "lat": 17.7241971,
+      "lon": 83.3182365,
+      "tags": {
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8318320976,
+      "lat": 17.716495,
+      "lon": 83.3081729,
+      "tags": {
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "Beside ICICI Bank",
+        "addr:postcode": "530002",
+        "addr:street": "Waltair Main Road",
+        "name": "Syamala Dry Fruits",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8378264240,
+      "lat": 17.7204033,
+      "lon": 83.3134842,
+      "tags": {
+        "name": "Annapurna toys",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8989379701,
+      "lat": 17.7267683,
+      "lon": 83.299685,
+      "tags": {
+        "name": "More Hyper Mart",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9039767981,
+      "lat": 17.6512355,
+      "lon": 83.1535236,
+      "tags": {
+        "name": "Sector 5 Mechanic Shop",
+        "payment:cash": "yes",
+        "shop": "motorcycle_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9039767992,
+      "lat": 17.6508149,
+      "lon": 83.1530935,
+      "tags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9055884684,
+      "lat": 17.7400341,
+      "lon": 83.3239049,
+      "tags": {
+        "name": "MINI  MALL",
+        "shop": "COMMERCIAL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9301950642,
+      "lat": 17.7173375,
+      "lon": 83.3184235,
+      "tags": {
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "7-8-10",
+        "addr:postcode": "530003",
+        "addr:street": "Harbour Park road",
+        "air_conditioning": "yes",
+        "name": "Aliens Tattoo",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "operator": "Aliens Tattoo",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:upi": "yes",
+        "phone": "+919494665565",
+        "shop": "tattoo",
+        "website": "https://www.alienstattoo.com/vizag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9310128797,
+      "lat": 17.7431086,
+      "lon": 83.2339525,
+      "tags": {
+        "name": "PVS Tailors",
+        "phone": "+919182569526",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9361224267,
+      "lat": 17.754911,
+      "lon": 83.3387784,
+      "tags": {
+        "name": "SM Bangalore Iyangar Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9406760944,
+      "lat": 17.6787991,
+      "lon": 83.198714,
+      "tags": {
+        "name": "Med Plus",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9768600553,
+      "lat": 17.747822,
+      "lon": 83.2458905,
+      "tags": {
+        "brand": "Spencer’s",
+        "brand:wikidata": "Q7575959",
+        "name": "Spencer’s",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9768620491,
+      "lat": 17.7468037,
+      "lon": 83.2405932,
+      "tags": {
+        "name": "Visakha Dairy",
+        "shop": "dairy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9769510046,
+      "lat": 17.7436538,
+      "lon": 83.2605757,
+      "tags": {
+        "brand": "Decathlon",
+        "brand:wikidata": "Q509349",
+        "name": "Decathlon",
+        "shop": "sports",
+        "sport": "multi",
+        "website": "https://www.decathlon.in/cms/decathlon-stores-2020#ANDHRAPRADESH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10207260056,
+      "lat": 17.6951895,
+      "lon": 83.1708829,
+      "tags": {
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10241784654,
+      "lat": 17.7284454,
+      "lon": 83.3038728,
+      "tags": {
+        "name": "Vinayaka music square",
+        "opening_hours": "Mo-sa 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10277270554,
+      "lat": 17.7418025,
+      "lon": 83.3074664,
+      "tags": {
+        "name": "Pranathi Fancy & General Store",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10277270555,
+      "lat": 17.741804,
+      "lon": 83.3069808,
+      "tags": {
+        "name": "B'treats",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10300976237,
+      "lat": 17.7368409,
+      "lon": 83.3356832,
+      "tags": {
+        "brand": "Spencer’s",
+        "brand:wikidata": "Q7575959",
+        "name": "Spencer’s",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892734375,
+      "lat": 17.8097055,
+      "lon": 83.2075851,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "Pendurthi Araku Road, near by Police Station, Chinnamushidiwada.",
+        "addr:postcode": "531173",
+        "addr:street": "pendurthi",
+        "name": "Rythu Bazaar",
+        "organic": "only",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892748095,
+      "lat": 17.8092653,
+      "lon": 83.2062726,
+      "tags": {
+        "addr:city": "Visakhapatnam, Andhra Pradesh",
+        "addr:housenumber": "Chinnamushidiwada.",
+        "addr:postcode": "531173",
+        "addr:street": "SCBC Colony",
+        "name": "Sri Venkatasai Kirana Shop",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "phone": "09848290960",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892764729,
+      "lat": 17.8098881,
+      "lon": 83.2079548,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "9-100,Araku-visakhapatnam road, Ratnagiri Nagar.",
+        "addr:postcode": "531173",
+        "addr:street": "chinnamusidivada.",
+        "name": "Sri Sairam Sweets and Bakery",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892765464,
+      "lat": 17.8076038,
+      "lon": 83.2088341,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "Ganesh nagar muncipal coorparation area,beside to ION digital building.",
+        "addr:postcode": "531178",
+        "addr:street": "pendurthi.",
+        "name": "Vishal Mega Mart",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892783836,
+      "lat": 17.8083414,
+      "lon": 83.2085594,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "Sarada Nagar, Karmika Nagar, Pendurthi, Visakhapatnam, Andhra Pradesh",
+        "addr:postcode": "531173",
+        "addr:street": "pendurthi",
+        "brand": "Royal Enfield .",
+        "name": "Royal Enfield Showroom - Saran Motors",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10892808622,
+      "lat": 17.8094968,
+      "lon": 83.2062507,
+      "tags": {
+        "addr:city": "Visakhapatnam, Andhra Pradesh",
+        "addr:housenumber": "12-166/2, Chinnamushidiwada.",
+        "addr:postcode": "531173",
+        "addr:street": "Pendurthi.",
+        "name": "Sri Guru medical and genaral",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "phone": "08099996341",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10902931507,
+      "lat": 17.8099446,
+      "lon": 83.2062816,
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "1/15, Pendurthi, Visakhapatnam, Andhra Pradesh",
+        "addr:postcode": "530051",
+        "addr:street": "Pendurthi railway station road",
+        "name": "Unisex Salons",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11256825542,
+      "lat": 17.7428137,
+      "lon": 83.2365887,
+      "tags": {
+        "description": "Winsmiths offers performance uPVC and Aluminium windows and doors, ensuring style, durability, and energy efficiency.",
+        "name": "Winsmiths",
+        "shop": "furniture",
+        "website": "https://www.winsmiths.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11378920408,
+      "lat": 17.7262723,
+      "lon": 83.309882,
+      "tags": {
+        "name": "Wakefit Furniture Store",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11378920421,
+      "lat": 17.7243808,
+      "lon": 83.3072943,
+      "tags": {
+        "name": "Lalithaa Jewellery",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11483113888,
+      "lat": 17.825524,
+      "lon": 83.3564746,
+      "tags": {
+        "check_date": "2024-01-03",
+        "name": "Ranga Pan Shop",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11483113889,
+      "lat": 17.825569,
+      "lon": 83.3569735,
+      "tags": {
+        "check_date": "2024-01-03",
+        "name": "Grace Power Tools",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11483113890,
+      "lat": 17.8257623,
+      "lon": 83.3572137,
+      "tags": {
+        "check_date": "2024-01-03",
+        "name": "Sun N Shine Granites and Tiles",
+        "shop": "tiles"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11483113891,
+      "lat": 17.8252544,
+      "lon": 83.3568736,
+      "tags": {
+        "check_date": "2024-01-03",
+        "name": "Bangalore Ayyangar Bakery & Sweets",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11490288169,
+      "lat": 18.0555062,
+      "lon": 83.3581115,
+      "tags": {
+        "name": "బంగార్రాజు పాన్ షాప్",
+        "name:en": "Bangarraju Pan shop",
+        "shop": "grocery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11507998512,
+      "lat": 17.8239895,
+      "lon": 83.3567913,
+      "tags": {
+        "check_date": "2024-01-11",
+        "name": "R.K. Mohiddin Stores",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11507998513,
+      "lat": 17.8241554,
+      "lon": 83.3567751,
+      "tags": {
+        "check_date": "2024-01-11",
+        "name": "Lucky Mobiles",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11507998517,
+      "lat": 17.8237073,
+      "lon": 83.3563461,
+      "tags": {
+        "check_date": "2024-01-11",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11507998520,
+      "lat": 17.8252979,
+      "lon": 83.356263,
+      "tags": {
+        "check_date": "2024-01-11",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11508472869,
+      "lat": 17.8182299,
+      "lon": 83.206543,
+      "tags": {
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "name": "Maruti Suzuki True Value",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11508472870,
+      "lat": 17.8180453,
+      "lon": 83.2065519,
+      "tags": {
+        "brand": "Suzuki",
+        "brand:wikidata": "Q181642",
+        "name": "Suzuki",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568850050,
+      "lat": 17.84165,
+      "lon": 83.19881,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Psr Chicken",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568858408,
+      "lat": 17.8291163,
+      "lon": 83.2028555,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Sri Kumari Car Care",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568858414,
+      "lat": 17.8227253,
+      "lon": 83.2050607,
+      "tags": {
+        "brand": "Airtel",
+        "check_date": "2024-01-30",
+        "name": "Airtel",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568858416,
+      "lat": 17.8217126,
+      "lon": 83.205328,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Rajhmundry Silk House",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568858421,
+      "lat": 17.8178635,
+      "lon": 83.2063908,
+      "tags": {
+        "brand": "More",
+        "brand:wikidata": "Q6910891",
+        "check_date": "2024-01-30",
+        "name": "More",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568858425,
+      "lat": 17.8131458,
+      "lon": 83.2071655,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Sri Siva Tyres",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568880936,
+      "lat": 17.7815457,
+      "lon": 83.2154889,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Pastry Chef",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568880939,
+      "lat": 17.7771084,
+      "lon": 83.2165248,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "MS Ramayya Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568884060,
+      "lat": 17.7391215,
+      "lon": 83.25693,
+      "tags": {
+        "brand": "Reliance Fresh",
+        "brand:wikidata": "Q7311014",
+        "check_date": "2024-01-30",
+        "name": "Reliance Fresh",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568884063,
+      "lat": 17.7369588,
+      "lon": 83.2644606,
+      "tags": {
+        "brand": "Škoda",
+        "brand:wikidata": "Q29637",
+        "check_date": "2024-01-30",
+        "name": "Škoda",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568884064,
+      "lat": 17.7364011,
+      "lon": 83.2663145,
+      "tags": {
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "check_date": "2024-01-30",
+        "name": "Honda",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568884066,
+      "lat": 17.7354356,
+      "lon": 83.2681868,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Durga Enterprises",
+        "shop": "paint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906508,
+      "lat": 17.7494574,
+      "lon": 83.2182675,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "CMR",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906509,
+      "lat": 17.7483587,
+      "lon": 83.219188,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "CMR Jewellery",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906511,
+      "lat": 17.7464254,
+      "lon": 83.2214885,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Crown Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906515,
+      "lat": 17.7439951,
+      "lon": 83.2265614,
+      "tags": {
+        "brand": "Reliance Digital",
+        "brand:wikidata": "Q7311012",
+        "check_date": "2024-01-30",
+        "name": "Reliance Digital",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906517,
+      "lat": 17.7441046,
+      "lon": 83.2291764,
+      "tags": {
+        "brand": "Airtel",
+        "check_date": "2024-01-30",
+        "name": "Airtel",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906518,
+      "lat": 17.7441324,
+      "lon": 83.2290298,
+      "tags": {
+        "brand": "Bata",
+        "brand:wikidata": "Q688082",
+        "check_date": "2024-01-30",
+        "name": "Bata",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906519,
+      "lat": 17.7440874,
+      "lon": 83.2292555,
+      "tags": {
+        "check_date": "2024-01-30",
+        "name": "Vijetha",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568906522,
+      "lat": 17.7422829,
+      "lon": 83.2377516,
+      "tags": {
+        "brand": "Spencer’s",
+        "brand:wikidata": "Q7575959",
+        "check_date": "2024-01-30",
+        "name": "Spencer’s",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133762297,
+      "nodes": [
+        1472232958,
+        1472232956,
+        1472232955,
+        1472232957,
+        1472232958
+      ],
+      "tags": {
+        "addr:street": "Resapuvanipalem, Visakhapatnam",
+        "building:levels": "5",
+        "name": "CMR CENTRAL",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133957208,
+      "nodes": [
+        1474042302,
+        1474042300,
+        1474042301,
+        1474042299,
+        9820808204,
+        1474042302
+      ],
+      "tags": {
+        "addr:street": "Jagadamba Juntion, Visakhapatnam",
+        "name": "Chandana Brothers",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133957506,
+      "nodes": [
+        1474043859,
+        1474043858,
+        1474043861,
+        1474043860,
+        1474043859
+      ],
+      "tags": {
+        "addr:street": "Opp. Judge Court, Jail road, Jagadamba centre, Visakhapatnam",
+        "name": "CMR Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133957655,
+      "nodes": [
+        1474044601,
+        1474044602,
+        1474044600,
+        9820808201,
+        1474044599,
+        1474044601
+      ],
+      "tags": {
+        "name": "South India Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133958180,
+      "nodes": [
+        1474048513,
+        1474048514,
+        1474048510,
+        1474048512,
+        1474048513
+      ],
+      "tags": {
+        "addr:postcode": "530016",
+        "addr:street": "Dwaraka Nagar, Visakhapatnam, Andhra Pradesh, India Ph: 0891 2226077",
+        "name": "ANR Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 134027411,
+      "nodes": [
+        1474419169,
+        1474419168,
+        1474419172,
+        1474419171,
+        1474419169
+      ],
+      "tags": {
+        "addr:city": "Visakhapatnam",
+        "addr:postcode": "530003",
+        "addr:street": "Swarna Bharathi Road",
+        "name": "Spencer's Supermarket",
+        "organic": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.spencers.in/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386675748,
+      "nodes": [
+        3900316158,
+        3900316159,
+        3900316160,
+        3900316161,
+        3900316158
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "MVP Super market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388724073,
+      "nodes": [
+        3918881936,
+        3918881937,
+        3918881938,
+        3918881939,
+        3918881940,
+        3918881941,
+        3918881936
+      ],
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:street": "Sector 8, MVP colony",
+        "building": "yes",
+        "name": "mvp departmental store",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388983261,
+      "nodes": [
+        3921523290,
+        3921523291,
+        3921523292,
+        3921523293,
+        3921523290
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Big Bazaar",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389827789,
+      "nodes": [
+        3929862788,
+        3929862789,
+        3929862790,
+        3929862791,
+        3929862788
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "RK family store",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389828550,
+      "nodes": [
+        3929875632,
+        8010132467,
+        8010132465,
+        8010132464,
+        8010132466,
+        3929875633,
+        8010132483,
+        8010132482,
+        3929875632
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "jewellery shop",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402585768,
+      "nodes": [
+        4049800693,
+        4049800695,
+        4049800696,
+        4049800694,
+        4049800693
+      ],
+      "tags": {
+        "name": "Vizag Central",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402642096,
+      "nodes": [
+        4050182519,
+        4050182518,
+        4050182520,
+        4050182521,
+        4050182519
+      ],
+      "tags": {
+        "name": "SKML Kirana Store",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402841514,
+      "nodes": [
+        4052474819,
+        4052474820,
+        4052474821,
+        4052474822,
+        4052474819
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430677218,
+      "nodes": [
+        4299440959,
+        4299440950,
+        4299440944,
+        4299440952,
+        4299440959
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430677221,
+      "nodes": [
+        4299440893,
+        4299440889,
+        4299440878,
+        4299440886,
+        4299440893
+      ],
+      "tags": {
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430677224,
+      "nodes": [
+        4299440947,
+        4299440939,
+        4299440933,
+        4299440942,
+        4299440947
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430677229,
+      "nodes": [
+        4299440852,
+        4299440843,
+        4299440853,
+        4299440859,
+        4299440852
+      ],
+      "tags": {
+        "name": "Bata",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430692464,
+      "nodes": [
+        4299599779,
+        4299599762,
+        4299599754,
+        4299599775,
+        4299599779
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430692465,
+      "nodes": [
+        4299599260,
+        4299599258,
+        4299599256,
+        4299599257,
+        4299599260
+      ],
+      "tags": {
+        "name": "Bata",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430692468,
+      "nodes": [
+        4299599771,
+        4299599768,
+        4299599755,
+        4299599763,
+        4299599771
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430692471,
+      "nodes": [
+        4299599786,
+        4299599782,
+        4299599770,
+        4299599776,
+        4299599786
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430692474,
+      "nodes": [
+        4299600112,
+        4299600101,
+        4299600103,
+        4299600114,
+        4299600112
+      ],
+      "tags": {
+        "name": "Pantaloons",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430692545,
+      "nodes": [
+        4299599403,
+        4299599401,
+        4299599397,
+        4299599400,
+        4299599403
+      ],
+      "tags": {
+        "name": "Lucky Shopping Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430711433,
+      "nodes": [
+        4299797502,
+        4299797500,
+        4299797498,
+        4299797501,
+        4299797502
+      ],
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430711435,
+      "nodes": [
+        4299797499,
+        4299797495,
+        4299797492,
+        4299797497,
+        4299797499
+      ],
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430711436,
+      "nodes": [
+        4299797496,
+        4299797491,
+        4299797489,
+        4299797493,
+        4299797496
+      ],
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430735038,
+      "nodes": [
+        4300022839,
+        4300022838,
+        4300022834,
+        4300022836,
+        4300022839
+      ],
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430735039,
+      "nodes": [
+        4300022829,
+        4303579231,
+        4300022821,
+        4300022819,
+        4300022828,
+        4300022829
+      ],
+      "tags": {
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430735040,
+      "nodes": [
+        4300022868,
+        4300022866,
+        4300022856,
+        4300022858,
+        4300022868
+      ],
+      "tags": {
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430735057,
+      "nodes": [
+        4300022990,
+        4300022880,
+        4300022887,
+        4300022993,
+        4300022990
+      ],
+      "tags": {
+        "building": "commercial",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430758551,
+      "nodes": [
+        4300256797,
+        4300256793,
+        4300256798,
+        4300256802,
+        4300256797
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430758552,
+      "nodes": [
+        4300256803,
+        4300256800,
+        4300256804,
+        4300256809,
+        4300256803
+      ],
+      "tags": {
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430758565,
+      "nodes": [
+        4300255188,
+        4300255174,
+        4300255177,
+        4300256794,
+        4300255188
+      ],
+      "tags": {
+        "building": "commercial",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430772714,
+      "nodes": [
+        4300410259,
+        4300410257,
+        4300410261,
+        4300410262,
+        4300410259
+      ],
+      "tags": {
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430785405,
+      "nodes": [
+        4300545862,
+        4300545861,
+        4300545860,
+        4300545850,
+        4300545851,
+        4300545862
+      ],
+      "tags": {
+        "name": "Srinivas Tailors",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431186083,
+      "nodes": [
+        4304339040,
+        4304339041,
+        4304339037,
+        4304339036,
+        4304339040
+      ],
+      "tags": {
+        "name": "Josalukkas",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431341688,
+      "nodes": [
+        4305483406,
+        4305483386,
+        4305483399,
+        4305483411,
+        4305483406
+      ],
+      "tags": {
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431341690,
+      "nodes": [
+        4305483471,
+        1472243911,
+        4305483458,
+        4305483460,
+        4305483459,
+        4305483464,
+        1811359390,
+        4305483471
+      ],
+      "tags": {
+        "shop": "tea"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431341693,
+      "nodes": [
+        4305483593,
+        4305483564,
+        4305483567,
+        4305483599,
+        4305483593
+      ],
+      "tags": {
+        "name": "Sarvani Sweets",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471361754,
+      "nodes": [
+        4655176256,
+        4655176257,
+        4655176254,
+        4655176253,
+        4655176256
+      ],
+      "tags": {
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471361756,
+      "nodes": [
+        4655176242,
+        4655176243,
+        4655176240,
+        4655176239,
+        4655176242
+      ],
+      "tags": {
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471361757,
+      "nodes": [
+        4655176251,
+        4655176252,
+        4655176246,
+        4655176245,
+        4655176251
+      ],
+      "tags": {
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471361759,
+      "nodes": [
+        4655176237,
+        4655176238,
+        4655176234,
+        4655176233,
+        4655176237
+      ],
+      "tags": {
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471361760,
+      "nodes": [
+        4655176230,
+        4655176231,
+        4655176228,
+        4655176227,
+        4655176230
+      ],
+      "tags": {
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471361789,
+      "nodes": [
+        4655178991,
+        4655178992,
+        4655176274,
+        4655176273,
+        4655178991
+      ],
+      "tags": {
+        "building": "commercial",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "way",
+      "id": 487178937,
+      "nodes": [
+        4796896181,
+        4796896182,
+        4796896183,
+        4796896184,
+        4796896181
+      ],
+      "tags": {
+        "brand": "Toyota",
+        "building": "industrial",
+        "name": "LeelaKrishna Toyota showroom",
+        "operator": "LeelaKrishna",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "second_hand": "no",
+        "service": "dealer",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:transmission": "yes",
+        "service:vehicle:transmission_repair": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 544134180,
+      "nodes": [
+        5259932983,
+        5259932984,
+        5259932985,
+        5259932986,
+        5259932983
+      ],
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:postcode": "530026",
+        "addr:street": "BC Road",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "KBR SUPER MARKET",
+        "shop": "supermarket",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 640194601,
+      "nodes": [
+        6031181300,
+        6031181301,
+        6031181302,
+        6031181303,
+        6031181300
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sri Ramadas Motor Transport Ltd",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "phone": "+91 089125 17045",
+        "shop": "car_repair",
+        "website": "https://srmt.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 640194608,
+      "nodes": [
+        6031181326,
+        6031181327,
+        6031181328,
+        6031181329,
+        6031181326
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Walmart",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 733463611,
+      "nodes": [
+        6868812749,
+        6868812750,
+        6868812751,
+        6868812752,
+        6868812749
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "general"
+      }
+    },
+    {
+      "type": "way",
+      "id": 733463612,
+      "nodes": [
+        6868812753,
+        6868812754,
+        6868812755,
+        6868812756,
+        6868812753
+      ],
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:postcode": "531173",
+        "building": "yes",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 733463615,
+      "nodes": [
+        6868812765,
+        6868812766,
+        6868812767,
+        6868812768,
+        6868812765
+      ],
+      "tags": {
+        "addr:city": "visakhapatnam",
+        "addr:postcode": "531173",
+        "building": "yes",
+        "shop": "fashion_accessories"
+      }
+    },
+    {
+      "type": "way",
+      "id": 733463618,
+      "nodes": [
+        6868812779,
+        6868812780,
+        6868812781,
+        6868812782,
+        6868812779
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 733463623,
+      "nodes": [
+        6868865799,
+        6868865800,
+        6868865801,
+        6868865802,
+        6868865799
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "medical_supply"
+      }
+    },
+    {
+      "type": "way",
+      "id": 733463626,
+      "nodes": [
+        6868865812,
+        6868865813,
+        6868865814,
+        6868865815,
+        6868865816,
+        6868865817,
+        6868865818,
+        6868865819,
+        6868865812
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913292927,
+      "nodes": [
+        8483845327,
+        8483845328,
+        8483845329,
+        8483845330,
+        8483845327
+      ],
+      "tags": {
+        "building": "hut",
+        "name": "Iron Box",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 962852953,
+      "nodes": [
+        8906671499,
+        8906671500,
+        8906671501,
+        8906671502,
+        8906671503,
+        8906671504,
+        8906671505,
+        8906671506,
+        8906671507,
+        8906671508,
+        8906671509,
+        8906671510,
+        8906671511,
+        8906671512,
+        8906671513,
+        8906671514,
+        8906671515,
+        8906671516,
+        8906671499
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Used cars",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 971286110,
+      "nodes": [
+        8989379697,
+        8989379698,
+        8989379699,
+        8989379700,
+        8989379697
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "More Hyper Mart",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 974669398,
+      "nodes": [
+        9020173993,
+        9020173994,
+        9020173995,
+        9020173996,
+        9020173997,
+        9020173998,
+        9020173999,
+        9020174000,
+        9020174001,
+        9020174002,
+        9020174003,
+        9020174004,
+        9020174005,
+        9020174006,
+        9020174007,
+        9020174008,
+        9020174009,
+        9020174010,
+        9020174011,
+        9020174012,
+        9020174013,
+        9020174014,
+        9020174015,
+        9020174016,
+        9020210217,
+        9020210218,
+        9020210219,
+        9020210220,
+        9020210221,
+        9020210222,
+        9020210223,
+        9020210224,
+        9020210225,
+        9020210226,
+        9020210227,
+        9020210228,
+        9020210229,
+        9020210230,
+        9020210231,
+        9020210232,
+        9020210233,
+        9020210234,
+        9020210235,
+        9020210236,
+        9020210237,
+        9020210238,
+        9020210239,
+        9020210240,
+        9020210241,
+        9020210242,
+        9020210243,
+        9020210244,
+        9020210245,
+        9020210246,
+        9020210247,
+        9020210248,
+        9020210249,
+        9020210250,
+        9020210251,
+        9020210252,
+        9020210253,
+        9020210254,
+        9020210255,
+        9020210256,
+        9020210257,
+        9020210258,
+        9020210259,
+        9020210260,
+        9020210261,
+        9020210262,
+        9020210263,
+        9020210264,
+        9020210265,
+        9020210266,
+        9020210267,
+        9020210268,
+        9020210269,
+        9020210270,
+        9020210271,
+        9020210272,
+        9020210273,
+        9020210274,
+        9020173993
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sector 2 Shopping Complex",
+        "shop": "retail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976841618,
+      "nodes": [
+        9039455655,
+        9039455656,
+        9039455657,
+        9039455658,
+        9039455659,
+        9039455660,
+        9039455661,
+        9039455662,
+        9039455663,
+        9039455664,
+        9039455665,
+        9039455666,
+        9039455667,
+        9039455668,
+        9039455669,
+        9039455670,
+        9039455671,
+        9039455672,
+        9039455655
+      ],
+      "tags": {
+        "name": "Sector 5 Shopping Complex",
+        "shop": "retail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976874613,
+      "nodes": [
+        9039767948,
+        9039767949,
+        9039767950,
+        9039767951,
+        9039767948
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Indane Gas Stores",
+        "shop": "gas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976874616,
+      "nodes": [
+        9039767994,
+        9039767995,
+        9039767996,
+        9039767997,
+        9039767998,
+        9039767999,
+        9039768000,
+        9039768001,
+        9039768002,
+        9039768003,
+        9039768004,
+        9039768005,
+        9039768006,
+        9039768007,
+        9039768008,
+        9039768009,
+        9039768010,
+        9039768011,
+        9039768012,
+        9039768013,
+        9039768014,
+        9039768015,
+        9039768016,
+        9039774817,
+        9039774818,
+        9039774819,
+        9039774820,
+        9039774821,
+        9039774822,
+        9039774823,
+        9039774824,
+        9039774825,
+        9039774826,
+        9039774827,
+        9039774828,
+        9039774829,
+        9039774830,
+        9039774831,
+        9039774832,
+        9039774833,
+        9039774834,
+        9039774835,
+        9039774836,
+        9039774837,
+        9039774838,
+        9039774839,
+        9039774840,
+        9039774841,
+        9039774842,
+        9039767994
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Sector 1 Shopping Complex",
+        "second_hand": "no",
+        "shop": "retail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015774613,
+      "nodes": [
+        9369514468,
+        9369514469,
+        9369514470,
+        9369514471,
+        9369514468
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1057271239,
+      "nodes": [
+        9714667918,
+        9714667919,
+        9714667920,
+        9714667921,
+        9714667918
+      ],
+      "tags": {
+        "brand": "Reliance Fresh",
+        "brand:wikidata": "Q7311014",
+        "building": "yes",
+        "name": "Reliance Fresh",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1123809780,
+      "nodes": [
+        10277270550,
+        10277270551,
+        10277270552,
+        10277270553,
+        10277270550
+      ],
+      "tags": {
+        "brand": "More",
+        "brand:wikidata": "Q6910891",
+        "building": "yes",
+        "name": "More",
+        "opening_hours": "Mo-Su 07:30-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1238799656,
+      "nodes": [
+        11508093825,
+        11508093826,
+        11508093827,
+        11508093828,
+        11508093825
+      ],
+      "tags": {
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "building": "yes",
+        "name": "Central Honda Service Center",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "area",
+      "id": 3602022111,
+      "tags": {
+        "admin_level": "5",
+        "alt_name": "Visakhapatnam",
+        "boundary": "administrative",
+        "name": "Visakhapatnam",
+        "name:ar": "فشاكاباتنم",
+        "name:fa": "وشاکاپاتنم",
+        "name:hi": "विशाखापट्टनम",
+        "name:kn": "ವಿಶಾಖಪಟ್ಟಣಂ",
+        "name:or": "ବିଶାଖାପାଟଣା ଜିଲ୍ଲା",
+        "name:te": "విశాఖపట్నం",
+        "name:ur": "وشاکھاپٹنم",
+        "name:zh": "维沙卡帕特南县",
+        "type": "boundary",
+        "wikidata": "Q15394",
+        "wikipedia": "en:Visakhapatnam district"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9039455655,
+      "lat": 17.6512872,
+      "lon": 83.1521277
+    },
+    {
+      "type": "node",
+      "id": 9039455656,
+      "lat": 17.6514196,
+      "lon": 83.152112
+    },
+    {
+      "type": "node",
+      "id": 9039455657,
+      "lat": 17.6516165,
+      "lon": 83.1521679
+    },
+    {
+      "type": "node",
+      "id": 9039455658,
+      "lat": 17.6517532,
+      "lon": 83.1522433
+    },
+    {
+      "type": "node",
+      "id": 9039455659,
+      "lat": 17.651876,
+      "lon": 83.1524281
+    },
+    {
+      "type": "node",
+      "id": 9039455660,
+      "lat": 17.6519131,
+      "lon": 83.1525982
+    },
+    {
+      "type": "node",
+      "id": 9039455661,
+      "lat": 17.651927,
+      "lon": 83.1528244
+    },
+    {
+      "type": "node",
+      "id": 9039455662,
+      "lat": 17.6518945,
+      "lon": 83.1530213
+    },
+    {
+      "type": "node",
+      "id": 9039455663,
+      "lat": 17.651774,
+      "lon": 83.1532061
+    },
+    {
+      "type": "node",
+      "id": 9039455664,
+      "lat": 17.6516675,
+      "lon": 83.1532693
+    },
+    {
+      "type": "node",
+      "id": 9039455665,
+      "lat": 17.6515099,
+      "lon": 83.1533349
+    },
+    {
+      "type": "node",
+      "id": 9039455666,
+      "lat": 17.651452,
+      "lon": 83.153352
+    },
+    {
+      "type": "node",
+      "id": 9039455667,
+      "lat": 17.6514033,
+      "lon": 83.1529702
+    },
+    {
+      "type": "node",
+      "id": 9039455668,
+      "lat": 17.6513686,
+      "lon": 83.1526323
+    },
+    {
+      "type": "node",
+      "id": 9039455669,
+      "lat": 17.6513825,
+      "lon": 83.1525982
+    },
+    {
+      "type": "node",
+      "id": 9039455670,
+      "lat": 17.6513686,
+      "lon": 83.1524961
+    },
+    {
+      "type": "node",
+      "id": 9039455671,
+      "lat": 17.6513338,
+      "lon": 83.1524475
+    },
+    {
+      "type": "node",
+      "id": 9039455672,
+      "lat": 17.6512968,
+      "lon": 83.1522165
+    },
+    {
+      "type": "node",
+      "id": 9039767994,
+      "lat": 17.6497688,
+      "lon": 83.1575433
+    },
+    {
+      "type": "node",
+      "id": 9039767995,
+      "lat": 17.649798,
+      "lon": 83.1575658
+    },
+    {
+      "type": "node",
+      "id": 9039767996,
+      "lat": 17.6498099,
+      "lon": 83.157544
+    },
+    {
+      "type": "node",
+      "id": 9039767997,
+      "lat": 17.6498425,
+      "lon": 83.1575658
+    },
+    {
+      "type": "node",
+      "id": 9039767998,
+      "lat": 17.6498514,
+      "lon": 83.157544
+    },
+    {
+      "type": "node",
+      "id": 9039767999,
+      "lat": 17.6498914,
+      "lon": 83.1575689
+    },
+    {
+      "type": "node",
+      "id": 9039768000,
+      "lat": 17.6499047,
+      "lon": 83.1575471
+    },
+    {
+      "type": "node",
+      "id": 9039768001,
+      "lat": 17.6499314,
+      "lon": 83.1575627
+    },
+    {
+      "type": "node",
+      "id": 9039768002,
+      "lat": 17.6499402,
+      "lon": 83.1575424
+    },
+    {
+      "type": "node",
+      "id": 9039768003,
+      "lat": 17.6499758,
+      "lon": 83.1575627
+    },
+    {
+      "type": "node",
+      "id": 9039768004,
+      "lat": 17.6500084,
+      "lon": 83.1575222
+    },
+    {
+      "type": "node",
+      "id": 9039768005,
+      "lat": 17.650044,
+      "lon": 83.1575456
+    },
+    {
+      "type": "node",
+      "id": 9039768006,
+      "lat": 17.6500306,
+      "lon": 83.1575564
+    },
+    {
+      "type": "node",
+      "id": 9039768007,
+      "lat": 17.6501017,
+      "lon": 83.1576046
+    },
+    {
+      "type": "node",
+      "id": 9039768008,
+      "lat": 17.6500929,
+      "lon": 83.157628
+    },
+    {
+      "type": "node",
+      "id": 9039768009,
+      "lat": 17.650121,
+      "lon": 83.1576466
+    },
+    {
+      "type": "node",
+      "id": 9039768010,
+      "lat": 17.6501136,
+      "lon": 83.1576668
+    },
+    {
+      "type": "node",
+      "id": 9039768011,
+      "lat": 17.6501447,
+      "lon": 83.1576839
+    },
+    {
+      "type": "node",
+      "id": 9039768012,
+      "lat": 17.6501358,
+      "lon": 83.1577057
+    },
+    {
+      "type": "node",
+      "id": 9039768013,
+      "lat": 17.6501684,
+      "lon": 83.1577306
+    },
+    {
+      "type": "node",
+      "id": 9039768014,
+      "lat": 17.650158,
+      "lon": 83.1577399
+    },
+    {
+      "type": "node",
+      "id": 9039768015,
+      "lat": 17.6501862,
+      "lon": 83.1577679
+    },
+    {
+      "type": "node",
+      "id": 9039768016,
+      "lat": 17.6501847,
+      "lon": 83.157785
+    },
+    {
+      "type": "node",
+      "id": 9039774817,
+      "lat": 17.6502203,
+      "lon": 83.1578068
+    },
+    {
+      "type": "node",
+      "id": 9039774818,
+      "lat": 17.6501269,
+      "lon": 83.1579778
+    },
+    {
+      "type": "node",
+      "id": 9039774819,
+      "lat": 17.6500958,
+      "lon": 83.157956
+    },
+    {
+      "type": "node",
+      "id": 9039774820,
+      "lat": 17.650084,
+      "lon": 83.1579778
+    },
+    {
+      "type": "node",
+      "id": 9039774821,
+      "lat": 17.6500632,
+      "lon": 83.1579654
+    },
+    {
+      "type": "node",
+      "id": 9039774822,
+      "lat": 17.6500514,
+      "lon": 83.1579856
+    },
+    {
+      "type": "node",
+      "id": 9039774823,
+      "lat": 17.6500336,
+      "lon": 83.1579747
+    },
+    {
+      "type": "node",
+      "id": 9039774824,
+      "lat": 17.6500217,
+      "lon": 83.1580042
+    },
+    {
+      "type": "node",
+      "id": 9039774825,
+      "lat": 17.6499966,
+      "lon": 83.157984
+    },
+    {
+      "type": "node",
+      "id": 9039774826,
+      "lat": 17.6499877,
+      "lon": 83.1580073
+    },
+    {
+      "type": "node",
+      "id": 9039774827,
+      "lat": 17.6499477,
+      "lon": 83.1579809
+    },
+    {
+      "type": "node",
+      "id": 9039774828,
+      "lat": 17.6499462,
+      "lon": 83.1580027
+    },
+    {
+      "type": "node",
+      "id": 9039774829,
+      "lat": 17.6499047,
+      "lon": 83.1579809
+    },
+    {
+      "type": "node",
+      "id": 9039774830,
+      "lat": 17.6498914,
+      "lon": 83.1580011
+    },
+    {
+      "type": "node",
+      "id": 9039774831,
+      "lat": 17.6498573,
+      "lon": 83.1579762
+    },
+    {
+      "type": "node",
+      "id": 9039774832,
+      "lat": 17.649841,
+      "lon": 83.1579933
+    },
+    {
+      "type": "node",
+      "id": 9039774833,
+      "lat": 17.6497936,
+      "lon": 83.157956
+    },
+    {
+      "type": "node",
+      "id": 9039774834,
+      "lat": 17.6498025,
+      "lon": 83.157928
+    },
+    {
+      "type": "node",
+      "id": 9039774835,
+      "lat": 17.6497788,
+      "lon": 83.1578985
+    },
+    {
+      "type": "node",
+      "id": 9039774836,
+      "lat": 17.6497639,
+      "lon": 83.1579156
+    },
+    {
+      "type": "node",
+      "id": 9039774837,
+      "lat": 17.6497432,
+      "lon": 83.1578876
+    },
+    {
+      "type": "node",
+      "id": 9039774838,
+      "lat": 17.6497595,
+      "lon": 83.1578721
+    },
+    {
+      "type": "node",
+      "id": 9039774839,
+      "lat": 17.6497387,
+      "lon": 83.1578425
+    },
+    {
+      "type": "node",
+      "id": 9039774840,
+      "lat": 17.649755,
+      "lon": 83.1578348
+    },
+    {
+      "type": "node",
+      "id": 9039774841,
+      "lat": 17.6497328,
+      "lon": 83.1578005
+    },
+    {
+      "type": "node",
+      "id": 9039774842,
+      "lat": 17.6496498,
+      "lon": 83.1577368
+    },
+    {
+      "type": "node",
+      "id": 9020173993,
+      "lat": 17.6547945,
+      "lon": 83.1570384
+    },
+    {
+      "type": "node",
+      "id": 9020173994,
+      "lat": 17.6547711,
+      "lon": 83.157023
+    },
+    {
+      "type": "node",
+      "id": 9020173995,
+      "lat": 17.6547784,
+      "lon": 83.1570138
+    },
+    {
+      "type": "node",
+      "id": 9020173996,
+      "lat": 17.6547506,
+      "lon": 83.1570015
+    },
+    {
+      "type": "node",
+      "id": 9020173997,
+      "lat": 17.6546993,
+      "lon": 83.1570568
+    },
+    {
+      "type": "node",
+      "id": 9020173998,
+      "lat": 17.6546569,
+      "lon": 83.1571214
+    },
+    {
+      "type": "node",
+      "id": 9020173999,
+      "lat": 17.6546569,
+      "lon": 83.157166
+    },
+    {
+      "type": "node",
+      "id": 9020174000,
+      "lat": 17.6546686,
+      "lon": 83.1571982
+    },
+    {
+      "type": "node",
+      "id": 9020174001,
+      "lat": 17.6546949,
+      "lon": 83.1572013
+    },
+    {
+      "type": "node",
+      "id": 9020174002,
+      "lat": 17.6547111,
+      "lon": 83.157252
+    },
+    {
+      "type": "node",
+      "id": 9020174003,
+      "lat": 17.6546818,
+      "lon": 83.1572797
+    },
+    {
+      "type": "node",
+      "id": 9020174004,
+      "lat": 17.6547272,
+      "lon": 83.1573366
+    },
+    {
+      "type": "node",
+      "id": 9020174005,
+      "lat": 17.654755,
+      "lon": 83.1573197
+    },
+    {
+      "type": "node",
+      "id": 9020174006,
+      "lat": 17.6547858,
+      "lon": 83.1573489
+    },
+    {
+      "type": "node",
+      "id": 9020174007,
+      "lat": 17.6548209,
+      "lon": 83.1573719
+    },
+    {
+      "type": "node",
+      "id": 9020174008,
+      "lat": 17.6548077,
+      "lon": 83.1574011
+    },
+    {
+      "type": "node",
+      "id": 9020174009,
+      "lat": 17.6548692,
+      "lon": 83.1574273
+    },
+    {
+      "type": "node",
+      "id": 9020174010,
+      "lat": 17.6548853,
+      "lon": 83.157395
+    },
+    {
+      "type": "node",
+      "id": 9020174011,
+      "lat": 17.6549351,
+      "lon": 83.1573981
+    },
+    {
+      "type": "node",
+      "id": 9020174012,
+      "lat": 17.6549559,
+      "lon": 83.1574386
+    },
+    {
+      "type": "node",
+      "id": 9020174013,
+      "lat": 17.6550005,
+      "lon": 83.1574168
+    },
+    {
+      "type": "node",
+      "id": 9020174014,
+      "lat": 17.6549981,
+      "lon": 83.157375
+    },
+    {
+      "type": "node",
+      "id": 9020174015,
+      "lat": 17.6550596,
+      "lon": 83.1573443
+    },
+    {
+      "type": "node",
+      "id": 9020174016,
+      "lat": 17.6550787,
+      "lon": 83.1573273
+    },
+    {
+      "type": "node",
+      "id": 9020210217,
+      "lat": 17.655105,
+      "lon": 83.1573658
+    },
+    {
+      "type": "node",
+      "id": 9020210218,
+      "lat": 17.6551402,
+      "lon": 83.1573473
+    },
+    {
+      "type": "node",
+      "id": 9020210219,
+      "lat": 17.6551153,
+      "lon": 83.1573227
+    },
+    {
+      "type": "node",
+      "id": 9020210220,
+      "lat": 17.6551475,
+      "lon": 83.1572828
+    },
+    {
+      "type": "node",
+      "id": 9020210221,
+      "lat": 17.6551182,
+      "lon": 83.1572505
+    },
+    {
+      "type": "node",
+      "id": 9020210222,
+      "lat": 17.6551197,
+      "lon": 83.1572152
+    },
+    {
+      "type": "node",
+      "id": 9020210223,
+      "lat": 17.6551329,
+      "lon": 83.1572044
+    },
+    {
+      "type": "node",
+      "id": 9020210224,
+      "lat": 17.6551255,
+      "lon": 83.157166
+    },
+    {
+      "type": "node",
+      "id": 9020210225,
+      "lat": 17.6551138,
+      "lon": 83.157166
+    },
+    {
+      "type": "node",
+      "id": 9020210226,
+      "lat": 17.6550962,
+      "lon": 83.1571398
+    },
+    {
+      "type": "node",
+      "id": 9020210227,
+      "lat": 17.6550611,
+      "lon": 83.1571199
+    },
+    {
+      "type": "node",
+      "id": 9020210228,
+      "lat": 17.6551197,
+      "lon": 83.1571014
+    },
+    {
+      "type": "node",
+      "id": 9020210229,
+      "lat": 17.6551709,
+      "lon": 83.1571045
+    },
+    {
+      "type": "node",
+      "id": 9020210230,
+      "lat": 17.6552295,
+      "lon": 83.1571229
+    },
+    {
+      "type": "node",
+      "id": 9020210231,
+      "lat": 17.6552676,
+      "lon": 83.1571614
+    },
+    {
+      "type": "node",
+      "id": 9020210232,
+      "lat": 17.6552881,
+      "lon": 83.1571906
+    },
+    {
+      "type": "node",
+      "id": 9020210233,
+      "lat": 17.6553159,
+      "lon": 83.157252
+    },
+    {
+      "type": "node",
+      "id": 9020210234,
+      "lat": 17.6553145,
+      "lon": 83.1572889
+    },
+    {
+      "type": "node",
+      "id": 9020210235,
+      "lat": 17.6553086,
+      "lon": 83.1573427
+    },
+    {
+      "type": "node",
+      "id": 9020210236,
+      "lat": 17.6552896,
+      "lon": 83.1573827
+    },
+    {
+      "type": "node",
+      "id": 9020210237,
+      "lat": 17.6553481,
+      "lon": 83.1574303
+    },
+    {
+      "type": "node",
+      "id": 9020210238,
+      "lat": 17.6553613,
+      "lon": 83.1574073
+    },
+    {
+      "type": "node",
+      "id": 9020210239,
+      "lat": 17.6553789,
+      "lon": 83.1574257
+    },
+    {
+      "type": "node",
+      "id": 9020210240,
+      "lat": 17.6554067,
+      "lon": 83.1573612
+    },
+    {
+      "type": "node",
+      "id": 9020210241,
+      "lat": 17.6553804,
+      "lon": 83.1573473
+    },
+    {
+      "type": "node",
+      "id": 9020210242,
+      "lat": 17.6553921,
+      "lon": 83.1572843
+    },
+    {
+      "type": "node",
+      "id": 9020210243,
+      "lat": 17.6554214,
+      "lon": 83.1572874
+    },
+    {
+      "type": "node",
+      "id": 9020210244,
+      "lat": 17.6554082,
+      "lon": 83.1572213
+    },
+    {
+      "type": "node",
+      "id": 9020210245,
+      "lat": 17.6553818,
+      "lon": 83.1572198
+    },
+    {
+      "type": "node",
+      "id": 9020210246,
+      "lat": 17.6553599,
+      "lon": 83.1571583
+    },
+    {
+      "type": "node",
+      "id": 9020210247,
+      "lat": 17.6553862,
+      "lon": 83.1571429
+    },
+    {
+      "type": "node",
+      "id": 9020210248,
+      "lat": 17.6553496,
+      "lon": 83.1570891
+    },
+    {
+      "type": "node",
+      "id": 9020210249,
+      "lat": 17.655332,
+      "lon": 83.157103
+    },
+    {
+      "type": "node",
+      "id": 9020210250,
+      "lat": 17.6552969,
+      "lon": 83.1570707
+    },
+    {
+      "type": "node",
+      "id": 9020210251,
+      "lat": 17.6552544,
+      "lon": 83.1570476
+    },
+    {
+      "type": "node",
+      "id": 9020210252,
+      "lat": 17.6552632,
+      "lon": 83.15702
+    },
+    {
+      "type": "node",
+      "id": 9020210253,
+      "lat": 17.6552251,
+      "lon": 83.157003
+    },
+    {
+      "type": "node",
+      "id": 9020210254,
+      "lat": 17.655086,
+      "lon": 83.1570107
+    },
+    {
+      "type": "node",
+      "id": 9020210255,
+      "lat": 17.6550098,
+      "lon": 83.1570307
+    },
+    {
+      "type": "node",
+      "id": 9020210256,
+      "lat": 17.6549615,
+      "lon": 83.1570553
+    },
+    {
+      "type": "node",
+      "id": 9020210257,
+      "lat": 17.6549439,
+      "lon": 83.1570784
+    },
+    {
+      "type": "node",
+      "id": 9020210258,
+      "lat": 17.6549703,
+      "lon": 83.1570983
+    },
+    {
+      "type": "node",
+      "id": 9020210259,
+      "lat": 17.6549425,
+      "lon": 83.1571337
+    },
+    {
+      "type": "node",
+      "id": 9020210260,
+      "lat": 17.6549732,
+      "lon": 83.1571552
+    },
+    {
+      "type": "node",
+      "id": 9020210261,
+      "lat": 17.6549527,
+      "lon": 83.1571998
+    },
+    {
+      "type": "node",
+      "id": 9020210262,
+      "lat": 17.6549439,
+      "lon": 83.157209
+    },
+    {
+      "type": "node",
+      "id": 9020210263,
+      "lat": 17.6549527,
+      "lon": 83.1572505
+    },
+    {
+      "type": "node",
+      "id": 9020210264,
+      "lat": 17.6549644,
+      "lon": 83.1572505
+    },
+    {
+      "type": "node",
+      "id": 9020210265,
+      "lat": 17.6549835,
+      "lon": 83.1572843
+    },
+    {
+      "type": "node",
+      "id": 9020210266,
+      "lat": 17.6550186,
+      "lon": 83.1572966
+    },
+    {
+      "type": "node",
+      "id": 9020210267,
+      "lat": 17.6549879,
+      "lon": 83.1573166
+    },
+    {
+      "type": "node",
+      "id": 9020210268,
+      "lat": 17.6549278,
+      "lon": 83.1573197
+    },
+    {
+      "type": "node",
+      "id": 9020210269,
+      "lat": 17.6548766,
+      "lon": 83.157312
+    },
+    {
+      "type": "node",
+      "id": 9020210270,
+      "lat": 17.6548272,
+      "lon": 83.1572782
+    },
+    {
+      "type": "node",
+      "id": 9020210271,
+      "lat": 17.6547905,
+      "lon": 83.1572505
+    },
+    {
+      "type": "node",
+      "id": 9020210272,
+      "lat": 17.6547715,
+      "lon": 83.1572044
+    },
+    {
+      "type": "node",
+      "id": 9020210273,
+      "lat": 17.6547598,
+      "lon": 83.1571537
+    },
+    {
+      "type": "node",
+      "id": 9020210274,
+      "lat": 17.654773,
+      "lon": 83.1570722
+    },
+    {
+      "type": "node",
+      "id": 9039767948,
+      "lat": 17.6539209,
+      "lon": 83.1567758
+    },
+    {
+      "type": "node",
+      "id": 9039767949,
+      "lat": 17.6539924,
+      "lon": 83.156783
+    },
+    {
+      "type": "node",
+      "id": 9039767950,
+      "lat": 17.6539814,
+      "lon": 83.156903
+    },
+    {
+      "type": "node",
+      "id": 9039767951,
+      "lat": 17.6539099,
+      "lon": 83.1568957
+    },
+    {
+      "type": "node",
+      "id": 6031181300,
+      "lat": 17.6847885,
+      "lon": 83.1897936
+    },
+    {
+      "type": "node",
+      "id": 6031181301,
+      "lat": 17.6846862,
+      "lon": 83.1903891
+    },
+    {
+      "type": "node",
+      "id": 6031181302,
+      "lat": 17.6844205,
+      "lon": 83.19033
+    },
+    {
+      "type": "node",
+      "id": 6031181303,
+      "lat": 17.684538,
+      "lon": 83.1897346
+    },
+    {
+      "type": "node",
+      "id": 6031181326,
+      "lat": 17.6856718,
+      "lon": 83.1877421
+    },
+    {
+      "type": "node",
+      "id": 6031181327,
+      "lat": 17.6855292,
+      "lon": 83.1882603
+    },
+    {
+      "type": "node",
+      "id": 6031181328,
+      "lat": 17.6849881,
+      "lon": 83.1880962
+    },
+    {
+      "type": "node",
+      "id": 6031181329,
+      "lat": 17.6851307,
+      "lon": 83.187578
+    },
+    {
+      "type": "node",
+      "id": 5259932983,
+      "lat": 17.6851372,
+      "lon": 83.2170573
+    },
+    {
+      "type": "node",
+      "id": 5259932984,
+      "lat": 17.6851524,
+      "lon": 83.2171493
+    },
+    {
+      "type": "node",
+      "id": 5259932985,
+      "lat": 17.6850226,
+      "lon": 83.2171634
+    },
+    {
+      "type": "node",
+      "id": 5259932986,
+      "lat": 17.6850108,
+      "lon": 83.2170679
+    },
+    {
+      "type": "node",
+      "id": 9369514468,
+      "lat": 17.7720586,
+      "lon": 83.2437231
+    },
+    {
+      "type": "node",
+      "id": 9369514470,
+      "lat": 17.7718316,
+      "lon": 83.2438266
+    },
+    {
+      "type": "node",
+      "id": 9369514471,
+      "lat": 17.7718345,
+      "lon": 83.2437168
+    },
+    {
+      "type": "node",
+      "id": 9369514469,
+      "lat": 17.7720558,
+      "lon": 83.243833
+    },
+    {
+      "type": "node",
+      "id": 6868812751,
+      "lat": 17.822385,
+      "lon": 83.2052431
+    },
+    {
+      "type": "node",
+      "id": 6868812752,
+      "lat": 17.8223632,
+      "lon": 83.2051316
+    },
+    {
+      "type": "node",
+      "id": 6868812753,
+      "lat": 17.8224802,
+      "lon": 83.2052595
+    },
+    {
+      "type": "node",
+      "id": 6868812755,
+      "lat": 17.8224646,
+      "lon": 83.205489
+    },
+    {
+      "type": "node",
+      "id": 6868812756,
+      "lat": 17.8224006,
+      "lon": 83.205289
+    },
+    {
+      "type": "node",
+      "id": 6868812749,
+      "lat": 17.8225989,
+      "lon": 83.2050611
+    },
+    {
+      "type": "node",
+      "id": 6868812750,
+      "lat": 17.8226301,
+      "lon": 83.2051496
+    },
+    {
+      "type": "node",
+      "id": 6868812754,
+      "lat": 17.8225442,
+      "lon": 83.2054529
+    },
+    {
+      "type": "node",
+      "id": 6868812765,
+      "lat": 17.8228576,
+      "lon": 83.2058659
+    },
+    {
+      "type": "node",
+      "id": 6868812766,
+      "lat": 17.8228914,
+      "lon": 83.2060133
+    },
+    {
+      "type": "node",
+      "id": 6868812767,
+      "lat": 17.8227624,
+      "lon": 83.2060554
+    },
+    {
+      "type": "node",
+      "id": 6868812768,
+      "lat": 17.8227211,
+      "lon": 83.2058883
+    },
+    {
+      "type": "node",
+      "id": 6868812779,
+      "lat": 17.8230059,
+      "lon": 83.2053998
+    },
+    {
+      "type": "node",
+      "id": 6868812780,
+      "lat": 17.8231963,
+      "lon": 83.2057458
+    },
+    {
+      "type": "node",
+      "id": 6868812781,
+      "lat": 17.8228685,
+      "lon": 83.2058589
+    },
+    {
+      "type": "node",
+      "id": 6868812782,
+      "lat": 17.8226952,
+      "lon": 83.2054621
+    },
+    {
+      "type": "node",
+      "id": 6868865799,
+      "lat": 17.8229002,
+      "lon": 83.2061188
+    },
+    {
+      "type": "node",
+      "id": 6868865800,
+      "lat": 17.8229365,
+      "lon": 83.2062427
+    },
+    {
+      "type": "node",
+      "id": 6868865801,
+      "lat": 17.8228034,
+      "lon": 83.2063062
+    },
+    {
+      "type": "node",
+      "id": 6868865802,
+      "lat": 17.8227399,
+      "lon": 83.2061601
+    },
+    {
+      "type": "node",
+      "id": 6868865812,
+      "lat": 17.8230302,
+      "lon": 83.2074625
+    },
+    {
+      "type": "node",
+      "id": 6868865813,
+      "lat": 17.8231179,
+      "lon": 83.2077039
+    },
+    {
+      "type": "node",
+      "id": 6868865814,
+      "lat": 17.8230333,
+      "lon": 83.2077388
+    },
+    {
+      "type": "node",
+      "id": 6868865815,
+      "lat": 17.8230181,
+      "lon": 83.2076753
+    },
+    {
+      "type": "node",
+      "id": 6868865816,
+      "lat": 17.8229879,
+      "lon": 83.2076912
+    },
+    {
+      "type": "node",
+      "id": 6868865817,
+      "lat": 17.8229667,
+      "lon": 83.2075959
+    },
+    {
+      "type": "node",
+      "id": 6868865818,
+      "lat": 17.822997,
+      "lon": 83.2075895
+    },
+    {
+      "type": "node",
+      "id": 6868865819,
+      "lat": 17.8229879,
+      "lon": 83.2075006
+    },
+    {
+      "type": "node",
+      "id": 1474044599,
+      "lat": 17.7109391,
+      "lon": 83.3012051
+    },
+    {
+      "type": "node",
+      "id": 1474044601,
+      "lat": 17.7108521,
+      "lon": 83.3013898
+    },
+    {
+      "type": "node",
+      "id": 4049800693,
+      "lat": 17.708553,
+      "lon": 83.3002474
+    },
+    {
+      "type": "node",
+      "id": 4049800694,
+      "lat": 17.7088338,
+      "lon": 83.3005678
+    },
+    {
+      "type": "node",
+      "id": 4049800695,
+      "lat": 17.7088852,
+      "lon": 83.2999266
+    },
+    {
+      "type": "node",
+      "id": 4049800696,
+      "lat": 17.709166,
+      "lon": 83.300247
+    },
+    {
+      "type": "node",
+      "id": 4299599256,
+      "lat": 17.7092045,
+      "lon": 83.3006152
+    },
+    {
+      "type": "node",
+      "id": 4299599257,
+      "lat": 17.7092769,
+      "lon": 83.3005334
+    },
+    {
+      "type": "node",
+      "id": 4299599258,
+      "lat": 17.7093411,
+      "lon": 83.3007484
+    },
+    {
+      "type": "node",
+      "id": 4299599260,
+      "lat": 17.7094135,
+      "lon": 83.3006666
+    },
+    {
+      "type": "node",
+      "id": 4299599397,
+      "lat": 17.7109313,
+      "lon": 83.30225
+    },
+    {
+      "type": "node",
+      "id": 4299599400,
+      "lat": 17.7109759,
+      "lon": 83.3021271
+    },
+    {
+      "type": "node",
+      "id": 4299599401,
+      "lat": 17.7110084,
+      "lon": 83.3022809
+    },
+    {
+      "type": "node",
+      "id": 4299599403,
+      "lat": 17.7110531,
+      "lon": 83.302158
+    },
+    {
+      "type": "node",
+      "id": 4299797489,
+      "lat": 17.7103065,
+      "lon": 83.3001699
+    },
+    {
+      "type": "node",
+      "id": 4299797491,
+      "lat": 17.7103707,
+      "lon": 83.3000267
+    },
+    {
+      "type": "node",
+      "id": 4299797492,
+      "lat": 17.7103649,
+      "lon": 83.2999895
+    },
+    {
+      "type": "node",
+      "id": 4299797493,
+      "lat": 17.7104741,
+      "lon": 83.3002527
+    },
+    {
+      "type": "node",
+      "id": 4299797495,
+      "lat": 17.7105029,
+      "lon": 83.2997508
+    },
+    {
+      "type": "node",
+      "id": 4299797496,
+      "lat": 17.7105383,
+      "lon": 83.3001094
+    },
+    {
+      "type": "node",
+      "id": 4299797497,
+      "lat": 17.7105463,
+      "lon": 83.3000807
+    },
+    {
+      "type": "node",
+      "id": 4299797498,
+      "lat": 17.7106709,
+      "lon": 83.2996125
+    },
+    {
+      "type": "node",
+      "id": 4299797499,
+      "lat": 17.7106639,
+      "lon": 83.29985
+    },
+    {
+      "type": "node",
+      "id": 4299797500,
+      "lat": 17.7107372,
+      "lon": 83.2994838
+    },
+    {
+      "type": "node",
+      "id": 4299797501,
+      "lat": 17.7107821,
+      "lon": 83.2996757
+    },
+    {
+      "type": "node",
+      "id": 4299797502,
+      "lat": 17.7108484,
+      "lon": 83.299547
+    },
+    {
+      "type": "node",
+      "id": 9820808201,
+      "lat": 17.7110334,
+      "lon": 83.301254
+    },
+    {
+      "type": "node",
+      "id": 1474042299,
+      "lat": 17.7112845,
+      "lon": 83.3014511
+    },
+    {
+      "type": "node",
+      "id": 1474042300,
+      "lat": 17.7112809,
+      "lon": 83.3019651
+    },
+    {
+      "type": "node",
+      "id": 1474042301,
+      "lat": 17.7114378,
+      "lon": 83.3015692
+    },
+    {
+      "type": "node",
+      "id": 1474042302,
+      "lat": 17.711121,
+      "lon": 83.3018696
+    },
+    {
+      "type": "node",
+      "id": 1474044600,
+      "lat": 17.7112355,
+      "lon": 83.301359
+    },
+    {
+      "type": "node",
+      "id": 1474044602,
+      "lat": 17.7111485,
+      "lon": 83.3015437
+    },
+    {
+      "type": "node",
+      "id": 4299440843,
+      "lat": 17.7116259,
+      "lon": 83.302186
+    },
+    {
+      "type": "node",
+      "id": 4299440852,
+      "lat": 17.7117194,
+      "lon": 83.3022249
+    },
+    {
+      "type": "node",
+      "id": 4299440853,
+      "lat": 17.7117249,
+      "lon": 83.301924
+    },
+    {
+      "type": "node",
+      "id": 4299440859,
+      "lat": 17.7118184,
+      "lon": 83.301963
+    },
+    {
+      "type": "node",
+      "id": 4299440878,
+      "lat": 17.7119846,
+      "lon": 83.3007719
+    },
+    {
+      "type": "node",
+      "id": 4299440886,
+      "lat": 17.7120396,
+      "lon": 83.3006284
+    },
+    {
+      "type": "node",
+      "id": 4299440889,
+      "lat": 17.7120664,
+      "lon": 83.3008014
+    },
+    {
+      "type": "node",
+      "id": 4299440893,
+      "lat": 17.7121213,
+      "lon": 83.3006486
+    },
+    {
+      "type": "node",
+      "id": 4299440939,
+      "lat": 17.7125902,
+      "lon": 83.3027374
+    },
+    {
+      "type": "node",
+      "id": 4299440947,
+      "lat": 17.7126895,
+      "lon": 83.3027987
+    },
+    {
+      "type": "node",
+      "id": 4299599754,
+      "lat": 17.7146008,
+      "lon": 83.3020473
+    },
+    {
+      "type": "node",
+      "id": 4299599755,
+      "lat": 17.7146069,
+      "lon": 83.3022304
+    },
+    {
+      "type": "node",
+      "id": 4299599762,
+      "lat": 17.7146673,
+      "lon": 83.3021117
+    },
+    {
+      "type": "node",
+      "id": 4299599763,
+      "lat": 17.7146685,
+      "lon": 83.3022958
+    },
+    {
+      "type": "node",
+      "id": 4299599768,
+      "lat": 17.7147682,
+      "lon": 83.302063
+    },
+    {
+      "type": "node",
+      "id": 4299599770,
+      "lat": 17.714798,
+      "lon": 83.3020246
+    },
+    {
+      "type": "node",
+      "id": 4299599771,
+      "lat": 17.7148298,
+      "lon": 83.3021285
+    },
+    {
+      "type": "node",
+      "id": 4299599775,
+      "lat": 17.7148512,
+      "lon": 83.3017415
+    },
+    {
+      "type": "node",
+      "id": 4299599776,
+      "lat": 17.7148703,
+      "lon": 83.3020906
+    },
+    {
+      "type": "node",
+      "id": 4299599779,
+      "lat": 17.7149202,
+      "lon": 83.3018032
+    },
+    {
+      "type": "node",
+      "id": 4299599782,
+      "lat": 17.7149394,
+      "lon": 83.3018538
+    },
+    {
+      "type": "node",
+      "id": 4299599786,
+      "lat": 17.7150118,
+      "lon": 83.3019198
+    },
+    {
+      "type": "node",
+      "id": 4299600101,
+      "lat": 17.7164252,
+      "lon": 83.3022456
+    },
+    {
+      "type": "node",
+      "id": 4299600103,
+      "lat": 17.7164494,
+      "lon": 83.3021236
+    },
+    {
+      "type": "node",
+      "id": 4299600112,
+      "lat": 17.7166577,
+      "lon": 83.30231
+    },
+    {
+      "type": "node",
+      "id": 4299600114,
+      "lat": 17.7166934,
+      "lon": 83.3021826
+    },
+    {
+      "type": "node",
+      "id": 4300255174,
+      "lat": 17.7151077,
+      "lon": 83.3023446
+    },
+    {
+      "type": "node",
+      "id": 4300255177,
+      "lat": 17.7151817,
+      "lon": 83.302139
+    },
+    {
+      "type": "node",
+      "id": 4300255188,
+      "lat": 17.7153469,
+      "lon": 83.3024393
+    },
+    {
+      "type": "node",
+      "id": 4300256793,
+      "lat": 17.715342,
+      "lon": 83.3025079
+    },
+    {
+      "type": "node",
+      "id": 4300256794,
+      "lat": 17.7154208,
+      "lon": 83.3022337
+    },
+    {
+      "type": "node",
+      "id": 4300256797,
+      "lat": 17.7154359,
+      "lon": 83.3025512
+    },
+    {
+      "type": "node",
+      "id": 4300256798,
+      "lat": 17.7154599,
+      "lon": 83.3022263
+    },
+    {
+      "type": "node",
+      "id": 4300256800,
+      "lat": 17.7155079,
+      "lon": 83.3025132
+    },
+    {
+      "type": "node",
+      "id": 4300256802,
+      "lat": 17.7155537,
+      "lon": 83.3022695
+    },
+    {
+      "type": "node",
+      "id": 4300256803,
+      "lat": 17.7155922,
+      "lon": 83.3023032
+    },
+    {
+      "type": "node",
+      "id": 4300256804,
+      "lat": 17.7155928,
+      "lon": 83.3025507
+    },
+    {
+      "type": "node",
+      "id": 4300256809,
+      "lat": 17.7156771,
+      "lon": 83.3023408
+    },
+    {
+      "type": "node",
+      "id": 9820808204,
+      "lat": 17.7111818,
+      "lon": 83.3017139
+    },
+    {
+      "type": "node",
+      "id": 1474043858,
+      "lat": 17.7149193,
+      "lon": 83.3037997
+    },
+    {
+      "type": "node",
+      "id": 1474043859,
+      "lat": 17.7145959,
+      "lon": 83.3037257
+    },
+    {
+      "type": "node",
+      "id": 1474043860,
+      "lat": 17.7146572,
+      "lon": 83.3033287
+    },
+    {
+      "type": "node",
+      "id": 1474043861,
+      "lat": 17.7149806,
+      "lon": 83.3034456
+    },
+    {
+      "type": "node",
+      "id": 4299440933,
+      "lat": 17.7125247,
+      "lon": 83.3028543
+    },
+    {
+      "type": "node",
+      "id": 4299440942,
+      "lat": 17.712624,
+      "lon": 83.3029156
+    },
+    {
+      "type": "node",
+      "id": 4299440944,
+      "lat": 17.7126468,
+      "lon": 83.3029233
+    },
+    {
+      "type": "node",
+      "id": 4299440950,
+      "lat": 17.7127063,
+      "lon": 83.3028143
+    },
+    {
+      "type": "node",
+      "id": 4299440952,
+      "lat": 17.7127257,
+      "lon": 83.3029708
+    },
+    {
+      "type": "node",
+      "id": 4299440959,
+      "lat": 17.7127852,
+      "lon": 83.3028618
+    },
+    {
+      "type": "node",
+      "id": 3929862789,
+      "lat": 17.720422,
+      "lon": 83.3026686
+    },
+    {
+      "type": "node",
+      "id": 3929862790,
+      "lat": 17.7205498,
+      "lon": 83.3026847
+    },
+    {
+      "type": "node",
+      "id": 1472243911,
+      "lat": 17.7236258,
+      "lon": 83.3084114
+    },
+    {
+      "type": "node",
+      "id": 1811359390,
+      "lat": 17.7236978,
+      "lon": 83.3085426
+    },
+    {
+      "type": "node",
+      "id": 3929862788,
+      "lat": 17.7203607,
+      "lon": 83.3030226
+    },
+    {
+      "type": "node",
+      "id": 3929862791,
+      "lat": 17.7204885,
+      "lon": 83.3030629
+    },
+    {
+      "type": "node",
+      "id": 4300410257,
+      "lat": 17.7196261,
+      "lon": 83.3075126
+    },
+    {
+      "type": "node",
+      "id": 4300410259,
+      "lat": 17.7196571,
+      "lon": 83.3073816
+    },
+    {
+      "type": "node",
+      "id": 4300410261,
+      "lat": 17.719712,
+      "lon": 83.307535
+    },
+    {
+      "type": "node",
+      "id": 4300410262,
+      "lat": 17.7197431,
+      "lon": 83.307404
+    },
+    {
+      "type": "node",
+      "id": 4305483458,
+      "lat": 17.7235867,
+      "lon": 83.3085345
+    },
+    {
+      "type": "node",
+      "id": 4305483459,
+      "lat": 17.7235982,
+      "lon": 83.3086203
+    },
+    {
+      "type": "node",
+      "id": 4305483460,
+      "lat": 17.7236215,
+      "lon": 83.3085467
+    },
+    {
+      "type": "node",
+      "id": 4305483464,
+      "lat": 17.7236656,
+      "lon": 83.3086439
+    },
+    {
+      "type": "node",
+      "id": 4305483471,
+      "lat": 17.7237281,
+      "lon": 83.3084472
+    },
+    {
+      "type": "node",
+      "id": 4305483564,
+      "lat": 17.7241282,
+      "lon": 83.3088809
+    },
+    {
+      "type": "node",
+      "id": 4305483567,
+      "lat": 17.724141,
+      "lon": 83.3088139
+    },
+    {
+      "type": "node",
+      "id": 3921523290,
+      "lat": 17.7252491,
+      "lon": 83.3017279
+    },
+    {
+      "type": "node",
+      "id": 3921523291,
+      "lat": 17.7256539,
+      "lon": 83.3017512
+    },
+    {
+      "type": "node",
+      "id": 3921523292,
+      "lat": 17.7256183,
+      "lon": 83.3020921
+    },
+    {
+      "type": "node",
+      "id": 3921523293,
+      "lat": 17.725209,
+      "lon": 83.3020781
+    },
+    {
+      "type": "node",
+      "id": 8989379697,
+      "lat": 17.7268173,
+      "lon": 83.2993927
+    },
+    {
+      "type": "node",
+      "id": 8989379698,
+      "lat": 17.726745,
+      "lon": 83.2998241
+    },
+    {
+      "type": "node",
+      "id": 8989379699,
+      "lat": 17.7264504,
+      "lon": 83.2997604
+    },
+    {
+      "type": "node",
+      "id": 8989379700,
+      "lat": 17.7265283,
+      "lon": 83.2993448
+    },
+    {
+      "type": "node",
+      "id": 1474048510,
+      "lat": 17.7255121,
+      "lon": 83.3058596
+    },
+    {
+      "type": "node",
+      "id": 1474048512,
+      "lat": 17.7254866,
+      "lon": 83.3060796
+    },
+    {
+      "type": "node",
+      "id": 1474048513,
+      "lat": 17.7256634,
+      "lon": 83.3061021
+    },
+    {
+      "type": "node",
+      "id": 1474048514,
+      "lat": 17.7256992,
+      "lon": 83.3058768
+    },
+    {
+      "type": "node",
+      "id": 3929875632,
+      "lat": 17.7251793,
+      "lon": 83.3092603
+    },
+    {
+      "type": "node",
+      "id": 4305483593,
+      "lat": 17.7243402,
+      "lon": 83.308889
+    },
+    {
+      "type": "node",
+      "id": 4305483599,
+      "lat": 17.7243607,
+      "lon": 83.3086905
+    },
+    {
+      "type": "node",
+      "id": 8010132464,
+      "lat": 17.7252695,
+      "lon": 83.3093393
+    },
+    {
+      "type": "node",
+      "id": 8010132465,
+      "lat": 17.7252301,
+      "lon": 83.3092917
+    },
+    {
+      "type": "node",
+      "id": 8010132466,
+      "lat": 17.7252552,
+      "lon": 83.3093523
+    },
+    {
+      "type": "node",
+      "id": 8010132467,
+      "lat": 17.7252158,
+      "lon": 83.3093046
+    },
+    {
+      "type": "node",
+      "id": 8010132482,
+      "lat": 17.7250983,
+      "lon": 83.309334
+    },
+    {
+      "type": "node",
+      "id": 4304339036,
+      "lat": 17.724151,
+      "lon": 83.3131816
+    },
+    {
+      "type": "node",
+      "id": 4304339037,
+      "lat": 17.7242039,
+      "lon": 83.3133829
+    },
+    {
+      "type": "node",
+      "id": 4305483386,
+      "lat": 17.7227746,
+      "lon": 83.317179
+    },
+    {
+      "type": "node",
+      "id": 4305483399,
+      "lat": 17.7228341,
+      "lon": 83.3172856
+    },
+    {
+      "type": "node",
+      "id": 4305483406,
+      "lat": 17.722889,
+      "lon": 83.3171087
+    },
+    {
+      "type": "node",
+      "id": 4305483411,
+      "lat": 17.7229485,
+      "lon": 83.3172152
+    },
+    {
+      "type": "node",
+      "id": 8483845327,
+      "lat": 17.723747,
+      "lon": 83.3170292
+    },
+    {
+      "type": "node",
+      "id": 8483845328,
+      "lat": 17.7237532,
+      "lon": 83.3170595
+    },
+    {
+      "type": "node",
+      "id": 8483845329,
+      "lat": 17.7237315,
+      "lon": 83.3170638
+    },
+    {
+      "type": "node",
+      "id": 8483845330,
+      "lat": 17.7237233,
+      "lon": 83.3170287
+    },
+    {
+      "type": "node",
+      "id": 9714667918,
+      "lat": 17.723076,
+      "lon": 83.3324692
+    },
+    {
+      "type": "node",
+      "id": 9714667919,
+      "lat": 17.7229981,
+      "lon": 83.3326141
+    },
+    {
+      "type": "node",
+      "id": 9714667920,
+      "lat": 17.7230326,
+      "lon": 83.3326248
+    },
+    {
+      "type": "node",
+      "id": 9714667921,
+      "lat": 17.7231041,
+      "lon": 83.3324826
+    },
+    {
+      "type": "node",
+      "id": 1474419168,
+      "lat": 17.730618,
+      "lon": 83.3144752
+    },
+    {
+      "type": "node",
+      "id": 1474419169,
+      "lat": 17.7306297,
+      "lon": 83.3140097
+    },
+    {
+      "type": "node",
+      "id": 1474419171,
+      "lat": 17.7300055,
+      "lon": 83.3139924
+    },
+    {
+      "type": "node",
+      "id": 1474419172,
+      "lat": 17.7299938,
+      "lon": 83.314458
+    },
+    {
+      "type": "node",
+      "id": 3929875633,
+      "lat": 17.725291,
+      "lon": 83.3093955
+    },
+    {
+      "type": "node",
+      "id": 4304339040,
+      "lat": 17.7243438,
+      "lon": 83.3131258
+    },
+    {
+      "type": "node",
+      "id": 4304339041,
+      "lat": 17.7243967,
+      "lon": 83.3133271
+    },
+    {
+      "type": "node",
+      "id": 8010132483,
+      "lat": 17.72521,
+      "lon": 83.3094692
+    },
+    {
+      "type": "node",
+      "id": 1472232955,
+      "lat": 17.7346078,
+      "lon": 83.3194361
+    },
+    {
+      "type": "node",
+      "id": 1472232956,
+      "lat": 17.7343605,
+      "lon": 83.3177378
+    },
+    {
+      "type": "node",
+      "id": 1472232957,
+      "lat": 17.7337882,
+      "lon": 83.3186712
+    },
+    {
+      "type": "node",
+      "id": 1472232958,
+      "lat": 17.7338291,
+      "lon": 83.317727
+    },
+    {
+      "type": "node",
+      "id": 4052474819,
+      "lat": 17.7277408,
+      "lon": 83.325433
+    },
+    {
+      "type": "node",
+      "id": 4052474820,
+      "lat": 17.7278246,
+      "lon": 83.3255288
+    },
+    {
+      "type": "node",
+      "id": 4052474821,
+      "lat": 17.7277654,
+      "lon": 83.3255858
+    },
+    {
+      "type": "node",
+      "id": 4052474822,
+      "lat": 17.7276816,
+      "lon": 83.32549
+    },
+    {
+      "type": "node",
+      "id": 4050182518,
+      "lat": 17.7245776,
+      "lon": 83.3330633
+    },
+    {
+      "type": "node",
+      "id": 4050182519,
+      "lat": 17.7246046,
+      "lon": 83.3330006
+    },
+    {
+      "type": "node",
+      "id": 4050182520,
+      "lat": 17.7246157,
+      "lon": 83.3330813
+    },
+    {
+      "type": "node",
+      "id": 4050182521,
+      "lat": 17.7246426,
+      "lon": 83.3330186
+    },
+    {
+      "type": "node",
+      "id": 4300022819,
+      "lat": 17.7305684,
+      "lon": 83.3350356
+    },
+    {
+      "type": "node",
+      "id": 4300022821,
+      "lat": 17.7305799,
+      "lon": 83.3353022
+    },
+    {
+      "type": "node",
+      "id": 4300022828,
+      "lat": 17.730654,
+      "lon": 83.3350315
+    },
+    {
+      "type": "node",
+      "id": 4300022829,
+      "lat": 17.7306655,
+      "lon": 83.3352981
+    },
+    {
+      "type": "node",
+      "id": 4300022834,
+      "lat": 17.7307452,
+      "lon": 83.33518
+    },
+    {
+      "type": "node",
+      "id": 4300022836,
+      "lat": 17.7307605,
+      "lon": 83.3350244
+    },
+    {
+      "type": "node",
+      "id": 4300545850,
+      "lat": 17.7249295,
+      "lon": 83.3339464
+    },
+    {
+      "type": "node",
+      "id": 4300545851,
+      "lat": 17.7249505,
+      "lon": 83.3338975
+    },
+    {
+      "type": "node",
+      "id": 4300545860,
+      "lat": 17.7249876,
+      "lon": 83.333974
+    },
+    {
+      "type": "node",
+      "id": 4300545861,
+      "lat": 17.7250011,
+      "lon": 83.3339426
+    },
+    {
+      "type": "node",
+      "id": 4300545862,
+      "lat": 17.7250086,
+      "lon": 83.333925
+    },
+    {
+      "type": "node",
+      "id": 4303579231,
+      "lat": 17.7306314,
+      "lon": 83.3352997
+    },
+    {
+      "type": "node",
+      "id": 4655176227,
+      "lat": 17.729994,
+      "lon": 83.3351886
+    },
+    {
+      "type": "node",
+      "id": 4655176228,
+      "lat": 17.7299967,
+      "lon": 83.3352519
+    },
+    {
+      "type": "node",
+      "id": 4655176230,
+      "lat": 17.7301066,
+      "lon": 83.3351832
+    },
+    {
+      "type": "node",
+      "id": 4655176231,
+      "lat": 17.7301093,
+      "lon": 83.3352466
+    },
+    {
+      "type": "node",
+      "id": 4655176233,
+      "lat": 17.7301363,
+      "lon": 83.3351856
+    },
+    {
+      "type": "node",
+      "id": 4655176234,
+      "lat": 17.7301396,
+      "lon": 83.3352615
+    },
+    {
+      "type": "node",
+      "id": 4655176237,
+      "lat": 17.7302421,
+      "lon": 83.3351805
+    },
+    {
+      "type": "node",
+      "id": 4655176238,
+      "lat": 17.7302454,
+      "lon": 83.3352564
+    },
+    {
+      "type": "node",
+      "id": 4655176239,
+      "lat": 17.7302698,
+      "lon": 83.3351819
+    },
+    {
+      "type": "node",
+      "id": 4655176240,
+      "lat": 17.7302728,
+      "lon": 83.3352517
+    },
+    {
+      "type": "node",
+      "id": 4655176242,
+      "lat": 17.7303386,
+      "lon": 83.3351786
+    },
+    {
+      "type": "node",
+      "id": 4655176243,
+      "lat": 17.7303416,
+      "lon": 83.3352484
+    },
+    {
+      "type": "node",
+      "id": 4655176245,
+      "lat": 17.7303899,
+      "lon": 83.3351832
+    },
+    {
+      "type": "node",
+      "id": 4655176246,
+      "lat": 17.7303949,
+      "lon": 83.335298
+    },
+    {
+      "type": "node",
+      "id": 4655176251,
+      "lat": 17.7304728,
+      "lon": 83.3351793
+    },
+    {
+      "type": "node",
+      "id": 4655176252,
+      "lat": 17.7304777,
+      "lon": 83.3352941
+    },
+    {
+      "type": "node",
+      "id": 4655176253,
+      "lat": 17.7304998,
+      "lon": 83.3350663
+    },
+    {
+      "type": "node",
+      "id": 4655176254,
+      "lat": 17.7305058,
+      "lon": 83.3352041
+    },
+    {
+      "type": "node",
+      "id": 4655176256,
+      "lat": 17.7305584,
+      "lon": 83.3350635
+    },
+    {
+      "type": "node",
+      "id": 4655176257,
+      "lat": 17.7305643,
+      "lon": 83.3352013
+    },
+    {
+      "type": "node",
+      "id": 4300022838,
+      "lat": 17.7307937,
+      "lon": 83.3351907
+    },
+    {
+      "type": "node",
+      "id": 4300022839,
+      "lat": 17.7308091,
+      "lon": 83.3350298
+    },
+    {
+      "type": "node",
+      "id": 4300022856,
+      "lat": 17.7311527,
+      "lon": 83.334864
+    },
+    {
+      "type": "node",
+      "id": 4300022858,
+      "lat": 17.73118,
+      "lon": 83.3347508
+    },
+    {
+      "type": "node",
+      "id": 4300022866,
+      "lat": 17.731257,
+      "lon": 83.3348917
+    },
+    {
+      "type": "node",
+      "id": 4300022868,
+      "lat": 17.7312842,
+      "lon": 83.3347785
+    },
+    {
+      "type": "node",
+      "id": 4300022880,
+      "lat": 17.7314938,
+      "lon": 83.3344316
+    },
+    {
+      "type": "node",
+      "id": 4300022887,
+      "lat": 17.7315525,
+      "lon": 83.3345201
+    },
+    {
+      "type": "node",
+      "id": 4300022990,
+      "lat": 17.7315857,
+      "lon": 83.3343726
+    },
+    {
+      "type": "node",
+      "id": 4300022993,
+      "lat": 17.7316368,
+      "lon": 83.3344585
+    },
+    {
+      "type": "node",
+      "id": 4655178991,
+      "lat": 17.7311347,
+      "lon": 83.3355728
+    },
+    {
+      "type": "node",
+      "id": 4655176273,
+      "lat": 17.7309561,
+      "lon": 83.3355846
+    },
+    {
+      "type": "node",
+      "id": 4655176274,
+      "lat": 17.7309617,
+      "lon": 83.3356787
+    },
+    {
+      "type": "node",
+      "id": 4655178992,
+      "lat": 17.7311404,
+      "lon": 83.3356669
+    },
+    {
+      "type": "node",
+      "id": 10277270550,
+      "lat": 17.7418663,
+      "lon": 83.3072091
+    },
+    {
+      "type": "node",
+      "id": 10277270551,
+      "lat": 17.7418634,
+      "lon": 83.3072807
+    },
+    {
+      "type": "node",
+      "id": 10277270552,
+      "lat": 17.7415735,
+      "lon": 83.3072259
+    },
+    {
+      "type": "node",
+      "id": 10277270553,
+      "lat": 17.7415807,
+      "lon": 83.3071711
+    },
+    {
+      "type": "node",
+      "id": 3918881936,
+      "lat": 17.7399314,
+      "lon": 83.3344232
+    },
+    {
+      "type": "node",
+      "id": 3918881937,
+      "lat": 17.739902,
+      "lon": 83.3344139
+    },
+    {
+      "type": "node",
+      "id": 3918881938,
+      "lat": 17.7399054,
+      "lon": 83.3344019
+    },
+    {
+      "type": "node",
+      "id": 3918881939,
+      "lat": 17.7398468,
+      "lon": 83.3343835
+    },
+    {
+      "type": "node",
+      "id": 3918881940,
+      "lat": 17.7398083,
+      "lon": 83.3345187
+    },
+    {
+      "type": "node",
+      "id": 3918881941,
+      "lat": 17.7398964,
+      "lon": 83.3345464
+    },
+    {
+      "type": "node",
+      "id": 3900316158,
+      "lat": 17.7408449,
+      "lon": 83.3383212
+    },
+    {
+      "type": "node",
+      "id": 3900316159,
+      "lat": 17.7407478,
+      "lon": 83.3382962
+    },
+    {
+      "type": "node",
+      "id": 3900316160,
+      "lat": 17.7407004,
+      "lon": 83.338499
+    },
+    {
+      "type": "node",
+      "id": 3900316161,
+      "lat": 17.7407974,
+      "lon": 83.338524
+    },
+    {
+      "type": "node",
+      "id": 11508093825,
+      "lat": 17.8260166,
+      "lon": 83.3563807
+    },
+    {
+      "type": "node",
+      "id": 11508093826,
+      "lat": 17.8255939,
+      "lon": 83.3561377
+    },
+    {
+      "type": "node",
+      "id": 11508093827,
+      "lat": 17.8256946,
+      "lon": 83.3559444
+    },
+    {
+      "type": "node",
+      "id": 11508093828,
+      "lat": 17.8261172,
+      "lon": 83.3561875
+    },
+    {
+      "type": "node",
+      "id": 4796896181,
+      "lat": 17.8346417,
+      "lon": 83.3578075
+    },
+    {
+      "type": "node",
+      "id": 4796896182,
+      "lat": 17.8343926,
+      "lon": 83.3586024
+    },
+    {
+      "type": "node",
+      "id": 4796896183,
+      "lat": 17.8340797,
+      "lon": 83.3584942
+    },
+    {
+      "type": "node",
+      "id": 4796896184,
+      "lat": 17.8343287,
+      "lon": 83.3576993
+    },
+    {
+      "type": "node",
+      "id": 8906671499,
+      "lat": 17.892212,
+      "lon": 83.4062109
+    },
+    {
+      "type": "node",
+      "id": 8906671500,
+      "lat": 17.8918881,
+      "lon": 83.4061739
+    },
+    {
+      "type": "node",
+      "id": 8906671501,
+      "lat": 17.8918388,
+      "lon": 83.4064921
+    },
+    {
+      "type": "node",
+      "id": 8906671502,
+      "lat": 17.8921557,
+      "lon": 83.4065291
+    },
+    {
+      "type": "node",
+      "id": 8906671503,
+      "lat": 17.8921064,
+      "lon": 83.4071359
+    },
+    {
+      "type": "node",
+      "id": 8906671505,
+      "lat": 17.8930711,
+      "lon": 83.4069287
+    },
+    {
+      "type": "node",
+      "id": 8906671506,
+      "lat": 17.893902,
+      "lon": 83.4059149
+    },
+    {
+      "type": "node",
+      "id": 8906671507,
+      "lat": 17.8941685,
+      "lon": 83.4049743
+    },
+    {
+      "type": "node",
+      "id": 8906671508,
+      "lat": 17.8943314,
+      "lon": 83.4044494
+    },
+    {
+      "type": "node",
+      "id": 8906671509,
+      "lat": 17.8944943,
+      "lon": 83.4032398
+    },
+    {
+      "type": "node",
+      "id": 8906671510,
+      "lat": 17.8937233,
+      "lon": 83.4033387
+    },
+    {
+      "type": "node",
+      "id": 8906671511,
+      "lat": 17.8933251,
+      "lon": 83.4038332
+    },
+    {
+      "type": "node",
+      "id": 8906671512,
+      "lat": 17.892998,
+      "lon": 83.4045863
+    },
+    {
+      "type": "node",
+      "id": 8906671513,
+      "lat": 17.8924225,
+      "lon": 83.4045217
+    },
+    {
+      "type": "node",
+      "id": 8906671514,
+      "lat": 17.8921437,
+      "lon": 83.4045483
+    },
+    {
+      "type": "node",
+      "id": 8906671515,
+      "lat": 17.892075,
+      "lon": 83.4049591
+    },
+    {
+      "type": "node",
+      "id": 8906671516,
+      "lat": 17.8923718,
+      "lon": 83.4049667
+    },
+    {
+      "type": "node",
+      "id": 8906671504,
+      "lat": 17.8925782,
+      "lon": 83.4077278
+    }
+  ]
+}
